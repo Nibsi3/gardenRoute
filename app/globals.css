@@ -1,8 +1,12 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #04060c;
+  --foreground: #e8f5ff;
+  --electric: #6ee7ff;
+  --violet: #a855f7;
+  --heat: #f97316;
+  --cool: #22d3ee;
 }
 
 @theme inline {
@@ -12,15 +16,428 @@
   --font-mono: var(--font-geist-mono);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+body {
+  background: radial-gradient(circle at 20% 20%, rgba(110, 231, 255, 0.08), transparent 25%),
+    radial-gradient(circle at 80% 10%, rgba(168, 85, 247, 0.1), transparent 30%),
+    radial-gradient(circle at 50% 80%, rgba(34, 211, 238, 0.08), transparent 32%),
+    #04060c;
+  color: var(--foreground);
+  font-family: var(--font-geist-sans), system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+    sans-serif;
+  min-height: 100vh;
+  letter-spacing: -0.01em;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.noise-overlay {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background-image: linear-gradient(90deg, rgba(255, 255, 255, 0.04) 1px, transparent 1px),
+    linear-gradient(180deg, rgba(255, 255, 255, 0.04) 1px, transparent 1px);
+  background-size: 120px 120px;
+  mix-blend-mode: soft-light;
+  opacity: 0.18;
+}
+
+.glow-ring {
+  position: absolute;
+  border-radius: 9999px;
+  filter: blur(32px);
+  opacity: 0.65;
+  pointer-events: none;
+}
+
+.glass {
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  box-shadow: 0 20px 80px rgba(0, 0, 0, 0.45);
+  backdrop-filter: blur(14px) saturate(120%);
+}
+
+.map-fallback {
+  background: radial-gradient(circle at 30% 30%, rgba(110, 231, 255, 0.12), transparent 40%),
+    radial-gradient(circle at 70% 60%, rgba(249, 115, 22, 0.12), transparent 45%),
+    linear-gradient(135deg, rgba(255, 255, 255, 0.04), transparent 50%),
+    #03050a;
+}
+
+.business-popup .mapboxgl-popup-content {
+  background: rgba(15, 23, 42, 0.95);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 12px;
+  padding: 12px 16px;
+  backdrop-filter: blur(14px) saturate(120%);
+  box-shadow: 0 20px 80px rgba(0, 0, 0, 0.45);
+}
+
+.business-popup .mapboxgl-popup-tip {
+  border-top-color: rgba(15, 23, 42, 0.95);
+}
+
+/* Business Details Card Styles */
+.business-details-card {
+  background: linear-gradient(135deg, rgba(15, 23, 42, 0.95), rgba(30, 41, 59, 0.95));
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 16px;
+  padding: 24px;
+  margin: 24px 0;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+  backdrop-filter: blur(12px);
+  position: relative;
+  overflow: hidden;
+}
+
+.business-details-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background: linear-gradient(90deg, #3b82f6, #06b6d4, #10b981);
+}
+
+.business-header {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin-bottom: 20px;
+  padding-bottom: 16px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.business-icon {
+  font-size: 32px;
+  background: linear-gradient(135deg, #3b82f6, #06b6d4);
+  border-radius: 12px;
+  width: 56px;
+  height: 56px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 4px 12px rgba(59, 130, 246, 0.3);
+}
+
+.business-title-section {
+  flex: 1;
+}
+
+.business-name {
+  font-size: 24px;
+  font-weight: 700;
+  color: #ffffff;
+  margin: 0 0 4px 0;
+  background: linear-gradient(135deg, #ffffff, #e2e8f0);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.business-tagline {
+  font-size: 14px;
+  color: #94a3b8;
+  margin: 0;
+  font-weight: 500;
+}
+
+.business-info-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 16px;
+  margin-bottom: 20px;
+}
+
+.info-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  padding: 16px;
+  background: rgba(255, 255, 255, 0.03);
+  border-radius: 12px;
+  border: 1px solid rgba(255, 255, 255, 0.06);
+  transition: all 0.2s ease;
+}
+
+.info-item:hover {
+  background: rgba(255, 255, 255, 0.06);
+  transform: translateY(-1px);
+}
+
+.info-icon {
+  font-size: 20px;
+  margin-top: 2px;
+}
+
+.info-content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.info-label {
+  font-size: 12px;
+  font-weight: 600;
+  color: #94a3b8;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.info-value {
+  font-size: 16px;
+  font-weight: 600;
+  color: #ffffff;
+  line-height: 1.4;
+}
+
+.contact-link, .location-link, .website-link {
+  color: #3b82f6;
+  text-decoration: none;
+  transition: all 0.2s ease;
+  position: relative;
+}
+
+.contact-link:hover, .location-link:hover, .website-link:hover {
+  color: #60a5fa;
+  text-decoration: underline;
+}
+
+.info-note {
+  font-size: 12px;
+  color: #64748b;
+  font-weight: 400;
+  margin-top: 2px;
+}
+
+.business-features {
+  padding-top: 16px;
+  border-top: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.features-title {
+  font-size: 16px;
+  font-weight: 600;
+  color: #ffffff;
+  margin: 0 0 12px 0;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.features-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.feature-tag {
+  background: linear-gradient(135deg, rgba(59, 130, 246, 0.2), rgba(6, 182, 212, 0.2));
+  border: 1px solid rgba(59, 130, 246, 0.3);
+  color: #93c5fd;
+  padding: 6px 12px;
+  border-radius: 20px;
+  font-size: 12px;
+  font-weight: 500;
+  transition: all 0.2s ease;
+}
+
+.feature-tag:hover {
+  background: linear-gradient(135deg, rgba(59, 130, 246, 0.3), rgba(6, 182, 212, 0.3));
+  transform: translateY(-1px);
+}
+
+/* Pro Tip Styling */
+.pro-tip-card {
+  background: linear-gradient(135deg, rgba(251, 191, 36, 0.1), rgba(245, 158, 11, 0.05));
+  border: 1px solid rgba(251, 191, 36, 0.2);
+  border-radius: 12px;
+  padding: 20px;
+  margin: 24px 0;
+  position: relative;
+  box-shadow: 0 4px 16px rgba(251, 191, 36, 0.1);
+  backdrop-filter: blur(8px);
+  overflow: hidden;
+}
+
+.pro-tip-card::before {
+  content: '💡';
+  position: absolute;
+  top: 16px;
+  left: 16px;
+  font-size: 24px;
+  opacity: 0.6;
+}
+
+.pro-tip-content {
+  margin: 0 0 0 40px;
+  font-size: 16px;
+  line-height: 1.6;
+  color: #92400e;
+  font-weight: 500;
+}
+
+.pro-tip-content strong {
+  color: #dc2626;
+  font-weight: 700;
+}
+
+.pro-tip-content a {
+  color: #dc2626;
+  text-decoration: none;
+  font-weight: 600;
+  transition: all 0.2s ease;
+  border-bottom: 1px solid transparent;
+}
+
+.pro-tip-content a:hover {
+  color: #b91c1c;
+  border-bottom-color: #dc2626;
+}
+
+.pro-tip-highlight {
+  background: rgba(220, 38, 38, 0.1);
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-weight: 700;
+  color: #dc2626;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .business-details-card {
+    padding: 16px;
+    margin: 16px 0;
+  }
+
+  .business-info-grid {
+    grid-template-columns: 1fr;
+    gap: 12px;
+  }
+
+  .business-name {
+    font-size: 20px;
+  }
+
+  .business-icon {
+    width: 48px;
+    height: 48px;
+    font-size: 24px;
+  }
+
+  .pro-tip-card {
+    padding: 16px;
+    margin: 16px 0;
+  }
+
+  .pro-tip-content {
+    margin-left: 36px;
+    font-size: 15px;
+  }
+
+  .pro-tip-card::before {
+    font-size: 20px;
+    top: 12px;
+    left: 12px;
   }
 }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+/* Custom scrollbar for business cards */
+.overflow-y-auto::-webkit-scrollbar {
+  width: 6px;
+}
+
+.overflow-y-auto::-webkit-scrollbar-track {
+  background: rgba(255, 255, 255, 0.05);
+  border-radius: 10px;
+}
+
+.overflow-y-auto::-webkit-scrollbar-thumb {
+  background: rgba(56, 189, 248, 0.3);
+  border-radius: 10px;
+}
+
+.overflow-y-auto::-webkit-scrollbar-thumb:hover {
+  background: rgba(56, 189, 248, 0.5);
+}
+
+/* Hide Mapbox logo and attribution */
+.mapboxgl-ctrl-logo,
+.mapboxgl-ctrl-attrib {
+  display: none !important;
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+
+/* Blog / prose styling (Caps Tutor style) */
+.prose {
+  color: #e2e8f0;
+  max-width: none;
+  line-height: 1.7;
+}
+.prose h1, .prose h2, .prose h3, .prose h4 {
+  color: #fff;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+.prose a {
+  color: #38bdf8;
+  text-decoration: none;
+}
+.prose a:hover {
+  text-decoration: underline;
+}
+.prose code {
+  border-radius: 6px;
+  background: rgba(255, 255, 255, 0.06);
+  padding: 0.15rem 0.35rem;
+  font-size: 0.9em;
+  font-family: var(--font-geist-mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace);
+  color: #e2e8f0;
+}
+.prose pre {
+  border-radius: 14px;
+  background: #0b1220;
+  padding: 1.1rem;
+  overflow-x: auto;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.45);
+}
+.prose pre code {
+  background: transparent;
+  padding: 0;
+  font-size: 0.95em;
+}
+
+.coming-soon-scroll {
+  scrollbar-width: thin;
+  scrollbar-color: rgba(255, 255, 255, 0.12) transparent;
+}
+.coming-soon-scroll::-webkit-scrollbar {
+  height: 6px;
+}
+.coming-soon-scroll::-webkit-scrollbar-track {
+  background: transparent;
+}
+.coming-soon-scroll::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.18);
+  border-radius: 999px;
 }

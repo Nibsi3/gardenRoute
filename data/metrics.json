@@ -1,0 +1,6756 @@
+{
+  "businesses": [
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-12-26",
+      "clicks": 37,
+      "directions": 23,
+      "calls": 13,
+      "websites": 14,
+      "shares": 6
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-12-26",
+      "clicks": 57,
+      "directions": 24,
+      "calls": 5,
+      "websites": 19,
+      "shares": 5
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-12-26",
+      "clicks": 36,
+      "directions": 17,
+      "calls": 4,
+      "websites": 19,
+      "shares": 8
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-12-26",
+      "clicks": 25,
+      "directions": 15,
+      "calls": 4,
+      "websites": 20,
+      "shares": 3
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-12-26",
+      "clicks": 15,
+      "directions": 22,
+      "calls": 15,
+      "websites": 21,
+      "shares": 9
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-12-25",
+      "clicks": 26,
+      "directions": 6,
+      "calls": 15,
+      "websites": 28,
+      "shares": 10
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-12-25",
+      "clicks": 44,
+      "directions": 21,
+      "calls": 8,
+      "websites": 17,
+      "shares": 6
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-12-25",
+      "clicks": 48,
+      "directions": 11,
+      "calls": 12,
+      "websites": 18,
+      "shares": 2
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-12-25",
+      "clicks": 25,
+      "directions": 19,
+      "calls": 11,
+      "websites": 25,
+      "shares": 9
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-12-25",
+      "clicks": 41,
+      "directions": 6,
+      "calls": 7,
+      "websites": 8,
+      "shares": 5
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-12-24",
+      "clicks": 29,
+      "directions": 13,
+      "calls": 11,
+      "websites": 13,
+      "shares": 6
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-12-24",
+      "clicks": 26,
+      "directions": 11,
+      "calls": 12,
+      "websites": 24,
+      "shares": 9
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-12-24",
+      "clicks": 14,
+      "directions": 14,
+      "calls": 7,
+      "websites": 26,
+      "shares": 10
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-12-24",
+      "clicks": 23,
+      "directions": 15,
+      "calls": 13,
+      "websites": 13,
+      "shares": 7
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-12-24",
+      "clicks": 53,
+      "directions": 15,
+      "calls": 4,
+      "websites": 28,
+      "shares": 8
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-12-23",
+      "clicks": 43,
+      "directions": 5,
+      "calls": 12,
+      "websites": 17,
+      "shares": 2
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-12-23",
+      "clicks": 23,
+      "directions": 11,
+      "calls": 16,
+      "websites": 7,
+      "shares": 3
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-12-23",
+      "clicks": 32,
+      "directions": 11,
+      "calls": 12,
+      "websites": 24,
+      "shares": 9
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-12-23",
+      "clicks": 45,
+      "directions": 13,
+      "calls": 10,
+      "websites": 26,
+      "shares": 2
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-12-23",
+      "clicks": 48,
+      "directions": 7,
+      "calls": 4,
+      "websites": 6,
+      "shares": 4
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-12-22",
+      "clicks": 25,
+      "directions": 15,
+      "calls": 11,
+      "websites": 19,
+      "shares": 5
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-12-22",
+      "clicks": 37,
+      "directions": 21,
+      "calls": 13,
+      "websites": 14,
+      "shares": 6
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-12-22",
+      "clicks": 26,
+      "directions": 18,
+      "calls": 3,
+      "websites": 9,
+      "shares": 5
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-12-22",
+      "clicks": 59,
+      "directions": 8,
+      "calls": 11,
+      "websites": 29,
+      "shares": 5
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-12-22",
+      "clicks": 13,
+      "directions": 21,
+      "calls": 16,
+      "websites": 6,
+      "shares": 1
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-12-21",
+      "clicks": 21,
+      "directions": 8,
+      "calls": 15,
+      "websites": 15,
+      "shares": 7
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-12-21",
+      "clicks": 21,
+      "directions": 14,
+      "calls": 6,
+      "websites": 13,
+      "shares": 5
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-12-21",
+      "clicks": 30,
+      "directions": 6,
+      "calls": 14,
+      "websites": 28,
+      "shares": 7
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-12-21",
+      "clicks": 24,
+      "directions": 12,
+      "calls": 11,
+      "websites": 25,
+      "shares": 5
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-12-21",
+      "clicks": 11,
+      "directions": 6,
+      "calls": 17,
+      "websites": 22,
+      "shares": 8
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-12-20",
+      "clicks": 18,
+      "directions": 15,
+      "calls": 14,
+      "websites": 25,
+      "shares": 9
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-12-20",
+      "clicks": 20,
+      "directions": 19,
+      "calls": 5,
+      "websites": 26,
+      "shares": 8
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-12-20",
+      "clicks": 18,
+      "directions": 19,
+      "calls": 13,
+      "websites": 10,
+      "shares": 7
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-12-20",
+      "clicks": 30,
+      "directions": 7,
+      "calls": 17,
+      "websites": 19,
+      "shares": 4
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-12-20",
+      "clicks": 33,
+      "directions": 13,
+      "calls": 7,
+      "websites": 12,
+      "shares": 5
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-12-19",
+      "clicks": 58,
+      "directions": 14,
+      "calls": 4,
+      "websites": 10,
+      "shares": 2
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-12-19",
+      "clicks": 53,
+      "directions": 5,
+      "calls": 4,
+      "websites": 23,
+      "shares": 3
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-12-19",
+      "clicks": 14,
+      "directions": 16,
+      "calls": 16,
+      "websites": 20,
+      "shares": 8
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-12-19",
+      "clicks": 31,
+      "directions": 9,
+      "calls": 16,
+      "websites": 24,
+      "shares": 10
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-12-19",
+      "clicks": 44,
+      "directions": 20,
+      "calls": 17,
+      "websites": 16,
+      "shares": 7
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-12-18",
+      "clicks": 42,
+      "directions": 7,
+      "calls": 9,
+      "websites": 15,
+      "shares": 4
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-12-18",
+      "clicks": 14,
+      "directions": 13,
+      "calls": 7,
+      "websites": 22,
+      "shares": 2
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-12-18",
+      "clicks": 13,
+      "directions": 11,
+      "calls": 7,
+      "websites": 7,
+      "shares": 2
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-12-18",
+      "clicks": 27,
+      "directions": 6,
+      "calls": 8,
+      "websites": 15,
+      "shares": 1
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-12-18",
+      "clicks": 47,
+      "directions": 7,
+      "calls": 9,
+      "websites": 22,
+      "shares": 5
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-12-17",
+      "clicks": 57,
+      "directions": 12,
+      "calls": 8,
+      "websites": 13,
+      "shares": 9
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-12-17",
+      "clicks": 35,
+      "directions": 7,
+      "calls": 4,
+      "websites": 8,
+      "shares": 5
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-12-17",
+      "clicks": 11,
+      "directions": 5,
+      "calls": 4,
+      "websites": 15,
+      "shares": 3
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-12-17",
+      "clicks": 27,
+      "directions": 12,
+      "calls": 9,
+      "websites": 18,
+      "shares": 8
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-12-17",
+      "clicks": 24,
+      "directions": 11,
+      "calls": 13,
+      "websites": 22,
+      "shares": 4
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-12-16",
+      "clicks": 49,
+      "directions": 13,
+      "calls": 8,
+      "websites": 12,
+      "shares": 3
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-12-16",
+      "clicks": 56,
+      "directions": 19,
+      "calls": 4,
+      "websites": 29,
+      "shares": 9
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-12-16",
+      "clicks": 20,
+      "directions": 6,
+      "calls": 14,
+      "websites": 6,
+      "shares": 10
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-12-16",
+      "clicks": 39,
+      "directions": 13,
+      "calls": 9,
+      "websites": 17,
+      "shares": 4
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-12-16",
+      "clicks": 59,
+      "directions": 5,
+      "calls": 3,
+      "websites": 29,
+      "shares": 5
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-12-15",
+      "clicks": 54,
+      "directions": 8,
+      "calls": 13,
+      "websites": 17,
+      "shares": 3
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-12-15",
+      "clicks": 38,
+      "directions": 7,
+      "calls": 15,
+      "websites": 9,
+      "shares": 4
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-12-15",
+      "clicks": 21,
+      "directions": 23,
+      "calls": 6,
+      "websites": 15,
+      "shares": 7
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-12-15",
+      "clicks": 25,
+      "directions": 22,
+      "calls": 4,
+      "websites": 10,
+      "shares": 4
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-12-15",
+      "clicks": 58,
+      "directions": 11,
+      "calls": 11,
+      "websites": 8,
+      "shares": 7
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-12-14",
+      "clicks": 14,
+      "directions": 19,
+      "calls": 3,
+      "websites": 11,
+      "shares": 2
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-12-14",
+      "clicks": 32,
+      "directions": 23,
+      "calls": 17,
+      "websites": 23,
+      "shares": 8
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-12-14",
+      "clicks": 30,
+      "directions": 11,
+      "calls": 4,
+      "websites": 14,
+      "shares": 6
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-12-14",
+      "clicks": 11,
+      "directions": 22,
+      "calls": 17,
+      "websites": 26,
+      "shares": 9
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-12-14",
+      "clicks": 21,
+      "directions": 16,
+      "calls": 15,
+      "websites": 13,
+      "shares": 10
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-12-13",
+      "clicks": 38,
+      "directions": 23,
+      "calls": 3,
+      "websites": 18,
+      "shares": 3
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-12-13",
+      "clicks": 27,
+      "directions": 20,
+      "calls": 17,
+      "websites": 19,
+      "shares": 3
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-12-13",
+      "clicks": 33,
+      "directions": 13,
+      "calls": 7,
+      "websites": 22,
+      "shares": 2
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-12-13",
+      "clicks": 32,
+      "directions": 5,
+      "calls": 13,
+      "websites": 14,
+      "shares": 1
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-12-13",
+      "clicks": 25,
+      "directions": 22,
+      "calls": 5,
+      "websites": 13,
+      "shares": 6
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-12-12",
+      "clicks": 30,
+      "directions": 24,
+      "calls": 14,
+      "websites": 23,
+      "shares": 1
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-12-12",
+      "clicks": 59,
+      "directions": 5,
+      "calls": 16,
+      "websites": 12,
+      "shares": 4
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-12-12",
+      "clicks": 44,
+      "directions": 10,
+      "calls": 8,
+      "websites": 11,
+      "shares": 7
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-12-12",
+      "clicks": 26,
+      "directions": 5,
+      "calls": 15,
+      "websites": 25,
+      "shares": 3
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-12-12",
+      "clicks": 59,
+      "directions": 6,
+      "calls": 7,
+      "websites": 29,
+      "shares": 4
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-12-11",
+      "clicks": 17,
+      "directions": 15,
+      "calls": 13,
+      "websites": 9,
+      "shares": 6
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-12-11",
+      "clicks": 55,
+      "directions": 6,
+      "calls": 10,
+      "websites": 8,
+      "shares": 6
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-12-11",
+      "clicks": 56,
+      "directions": 7,
+      "calls": 17,
+      "websites": 8,
+      "shares": 8
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-12-11",
+      "clicks": 55,
+      "directions": 22,
+      "calls": 5,
+      "websites": 6,
+      "shares": 2
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-12-11",
+      "clicks": 53,
+      "directions": 8,
+      "calls": 15,
+      "websites": 10,
+      "shares": 5
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-12-10",
+      "clicks": 57,
+      "directions": 13,
+      "calls": 7,
+      "websites": 6,
+      "shares": 7
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-12-10",
+      "clicks": 21,
+      "directions": 14,
+      "calls": 7,
+      "websites": 26,
+      "shares": 7
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-12-10",
+      "clicks": 23,
+      "directions": 19,
+      "calls": 4,
+      "websites": 26,
+      "shares": 4
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-12-10",
+      "clicks": 10,
+      "directions": 19,
+      "calls": 16,
+      "websites": 28,
+      "shares": 7
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-12-10",
+      "clicks": 15,
+      "directions": 8,
+      "calls": 9,
+      "websites": 29,
+      "shares": 9
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-12-09",
+      "clicks": 21,
+      "directions": 10,
+      "calls": 10,
+      "websites": 15,
+      "shares": 4
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-12-09",
+      "clicks": 14,
+      "directions": 8,
+      "calls": 5,
+      "websites": 19,
+      "shares": 5
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-12-09",
+      "clicks": 43,
+      "directions": 23,
+      "calls": 13,
+      "websites": 9,
+      "shares": 2
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-12-09",
+      "clicks": 20,
+      "directions": 14,
+      "calls": 10,
+      "websites": 17,
+      "shares": 6
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-12-09",
+      "clicks": 53,
+      "directions": 21,
+      "calls": 6,
+      "websites": 27,
+      "shares": 8
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-12-08",
+      "clicks": 20,
+      "directions": 21,
+      "calls": 6,
+      "websites": 20,
+      "shares": 7
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-12-08",
+      "clicks": 48,
+      "directions": 8,
+      "calls": 7,
+      "websites": 16,
+      "shares": 4
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-12-08",
+      "clicks": 54,
+      "directions": 24,
+      "calls": 16,
+      "websites": 7,
+      "shares": 1
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-12-08",
+      "clicks": 30,
+      "directions": 17,
+      "calls": 13,
+      "websites": 15,
+      "shares": 4
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-12-08",
+      "clicks": 17,
+      "directions": 20,
+      "calls": 6,
+      "websites": 18,
+      "shares": 3
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-12-07",
+      "clicks": 46,
+      "directions": 21,
+      "calls": 14,
+      "websites": 9,
+      "shares": 6
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-12-07",
+      "clicks": 23,
+      "directions": 6,
+      "calls": 4,
+      "websites": 26,
+      "shares": 6
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-12-07",
+      "clicks": 44,
+      "directions": 14,
+      "calls": 11,
+      "websites": 22,
+      "shares": 8
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-12-07",
+      "clicks": 47,
+      "directions": 6,
+      "calls": 17,
+      "websites": 21,
+      "shares": 2
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-12-07",
+      "clicks": 33,
+      "directions": 13,
+      "calls": 9,
+      "websites": 7,
+      "shares": 9
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-12-06",
+      "clicks": 33,
+      "directions": 10,
+      "calls": 14,
+      "websites": 7,
+      "shares": 4
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-12-06",
+      "clicks": 52,
+      "directions": 23,
+      "calls": 6,
+      "websites": 18,
+      "shares": 3
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-12-06",
+      "clicks": 15,
+      "directions": 16,
+      "calls": 17,
+      "websites": 16,
+      "shares": 1
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-12-06",
+      "clicks": 12,
+      "directions": 20,
+      "calls": 9,
+      "websites": 10,
+      "shares": 1
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-12-06",
+      "clicks": 32,
+      "directions": 24,
+      "calls": 5,
+      "websites": 19,
+      "shares": 4
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-12-05",
+      "clicks": 16,
+      "directions": 23,
+      "calls": 15,
+      "websites": 8,
+      "shares": 6
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-12-05",
+      "clicks": 49,
+      "directions": 24,
+      "calls": 16,
+      "websites": 6,
+      "shares": 7
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-12-05",
+      "clicks": 38,
+      "directions": 12,
+      "calls": 14,
+      "websites": 24,
+      "shares": 10
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-12-05",
+      "clicks": 19,
+      "directions": 7,
+      "calls": 4,
+      "websites": 17,
+      "shares": 3
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-12-05",
+      "clicks": 36,
+      "directions": 13,
+      "calls": 8,
+      "websites": 13,
+      "shares": 1
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-12-04",
+      "clicks": 38,
+      "directions": 20,
+      "calls": 3,
+      "websites": 23,
+      "shares": 4
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-12-04",
+      "clicks": 26,
+      "directions": 24,
+      "calls": 12,
+      "websites": 17,
+      "shares": 1
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-12-04",
+      "clicks": 31,
+      "directions": 5,
+      "calls": 4,
+      "websites": 22,
+      "shares": 7
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-12-04",
+      "clicks": 16,
+      "directions": 23,
+      "calls": 3,
+      "websites": 18,
+      "shares": 7
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-12-04",
+      "clicks": 46,
+      "directions": 24,
+      "calls": 11,
+      "websites": 22,
+      "shares": 1
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-12-03",
+      "clicks": 36,
+      "directions": 9,
+      "calls": 15,
+      "websites": 17,
+      "shares": 6
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-12-03",
+      "clicks": 35,
+      "directions": 5,
+      "calls": 12,
+      "websites": 16,
+      "shares": 5
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-12-03",
+      "clicks": 11,
+      "directions": 19,
+      "calls": 11,
+      "websites": 7,
+      "shares": 7
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-12-03",
+      "clicks": 56,
+      "directions": 8,
+      "calls": 12,
+      "websites": 5,
+      "shares": 10
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-12-03",
+      "clicks": 58,
+      "directions": 22,
+      "calls": 13,
+      "websites": 28,
+      "shares": 8
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-12-02",
+      "clicks": 28,
+      "directions": 16,
+      "calls": 9,
+      "websites": 8,
+      "shares": 5
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-12-02",
+      "clicks": 20,
+      "directions": 23,
+      "calls": 11,
+      "websites": 5,
+      "shares": 8
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-12-02",
+      "clicks": 53,
+      "directions": 7,
+      "calls": 5,
+      "websites": 27,
+      "shares": 3
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-12-02",
+      "clicks": 44,
+      "directions": 8,
+      "calls": 12,
+      "websites": 26,
+      "shares": 4
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-12-02",
+      "clicks": 49,
+      "directions": 22,
+      "calls": 4,
+      "websites": 20,
+      "shares": 10
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-12-01",
+      "clicks": 51,
+      "directions": 6,
+      "calls": 6,
+      "websites": 26,
+      "shares": 10
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-12-01",
+      "clicks": 49,
+      "directions": 9,
+      "calls": 12,
+      "websites": 25,
+      "shares": 1
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-12-01",
+      "clicks": 52,
+      "directions": 18,
+      "calls": 15,
+      "websites": 22,
+      "shares": 8
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-12-01",
+      "clicks": 21,
+      "directions": 9,
+      "calls": 14,
+      "websites": 26,
+      "shares": 4
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-12-01",
+      "clicks": 59,
+      "directions": 22,
+      "calls": 5,
+      "websites": 8,
+      "shares": 8
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-11-30",
+      "clicks": 46,
+      "directions": 6,
+      "calls": 10,
+      "websites": 18,
+      "shares": 7
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-11-30",
+      "clicks": 46,
+      "directions": 5,
+      "calls": 5,
+      "websites": 12,
+      "shares": 7
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-11-30",
+      "clicks": 51,
+      "directions": 13,
+      "calls": 14,
+      "websites": 25,
+      "shares": 6
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-11-30",
+      "clicks": 44,
+      "directions": 19,
+      "calls": 3,
+      "websites": 18,
+      "shares": 8
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-11-30",
+      "clicks": 58,
+      "directions": 24,
+      "calls": 10,
+      "websites": 24,
+      "shares": 5
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-11-29",
+      "clicks": 48,
+      "directions": 24,
+      "calls": 15,
+      "websites": 17,
+      "shares": 6
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-11-29",
+      "clicks": 35,
+      "directions": 14,
+      "calls": 10,
+      "websites": 22,
+      "shares": 3
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-11-29",
+      "clicks": 12,
+      "directions": 12,
+      "calls": 14,
+      "websites": 25,
+      "shares": 6
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-11-29",
+      "clicks": 18,
+      "directions": 23,
+      "calls": 12,
+      "websites": 22,
+      "shares": 8
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-11-29",
+      "clicks": 37,
+      "directions": 19,
+      "calls": 8,
+      "websites": 5,
+      "shares": 8
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-11-28",
+      "clicks": 22,
+      "directions": 9,
+      "calls": 10,
+      "websites": 9,
+      "shares": 10
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-11-28",
+      "clicks": 43,
+      "directions": 16,
+      "calls": 3,
+      "websites": 29,
+      "shares": 6
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-11-28",
+      "clicks": 19,
+      "directions": 18,
+      "calls": 6,
+      "websites": 16,
+      "shares": 2
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-11-28",
+      "clicks": 39,
+      "directions": 15,
+      "calls": 10,
+      "websites": 9,
+      "shares": 7
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-11-28",
+      "clicks": 39,
+      "directions": 7,
+      "calls": 3,
+      "websites": 12,
+      "shares": 2
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-11-27",
+      "clicks": 36,
+      "directions": 8,
+      "calls": 9,
+      "websites": 13,
+      "shares": 3
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-11-27",
+      "clicks": 33,
+      "directions": 9,
+      "calls": 6,
+      "websites": 28,
+      "shares": 2
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-11-27",
+      "clicks": 40,
+      "directions": 9,
+      "calls": 17,
+      "websites": 12,
+      "shares": 1
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-11-27",
+      "clicks": 42,
+      "directions": 5,
+      "calls": 17,
+      "websites": 27,
+      "shares": 5
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-11-27",
+      "clicks": 22,
+      "directions": 17,
+      "calls": 9,
+      "websites": 25,
+      "shares": 9
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-11-26",
+      "clicks": 24,
+      "directions": 12,
+      "calls": 12,
+      "websites": 25,
+      "shares": 5
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-11-26",
+      "clicks": 23,
+      "directions": 12,
+      "calls": 15,
+      "websites": 6,
+      "shares": 5
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-11-26",
+      "clicks": 45,
+      "directions": 23,
+      "calls": 7,
+      "websites": 22,
+      "shares": 4
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-11-26",
+      "clicks": 56,
+      "directions": 13,
+      "calls": 11,
+      "websites": 18,
+      "shares": 10
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-11-26",
+      "clicks": 11,
+      "directions": 21,
+      "calls": 5,
+      "websites": 21,
+      "shares": 8
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-11-25",
+      "clicks": 22,
+      "directions": 12,
+      "calls": 5,
+      "websites": 28,
+      "shares": 10
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-11-25",
+      "clicks": 58,
+      "directions": 12,
+      "calls": 9,
+      "websites": 16,
+      "shares": 10
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-11-25",
+      "clicks": 39,
+      "directions": 17,
+      "calls": 15,
+      "websites": 28,
+      "shares": 2
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-11-25",
+      "clicks": 40,
+      "directions": 12,
+      "calls": 13,
+      "websites": 10,
+      "shares": 7
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-11-25",
+      "clicks": 34,
+      "directions": 14,
+      "calls": 3,
+      "websites": 29,
+      "shares": 8
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-11-24",
+      "clicks": 25,
+      "directions": 21,
+      "calls": 6,
+      "websites": 29,
+      "shares": 2
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-11-24",
+      "clicks": 49,
+      "directions": 15,
+      "calls": 6,
+      "websites": 21,
+      "shares": 1
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-11-24",
+      "clicks": 39,
+      "directions": 6,
+      "calls": 13,
+      "websites": 10,
+      "shares": 5
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-11-24",
+      "clicks": 57,
+      "directions": 17,
+      "calls": 12,
+      "websites": 6,
+      "shares": 5
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-11-24",
+      "clicks": 55,
+      "directions": 23,
+      "calls": 5,
+      "websites": 6,
+      "shares": 1
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-11-23",
+      "clicks": 11,
+      "directions": 20,
+      "calls": 8,
+      "websites": 8,
+      "shares": 4
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-11-23",
+      "clicks": 34,
+      "directions": 22,
+      "calls": 13,
+      "websites": 6,
+      "shares": 3
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-11-23",
+      "clicks": 42,
+      "directions": 16,
+      "calls": 6,
+      "websites": 25,
+      "shares": 1
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-11-23",
+      "clicks": 31,
+      "directions": 13,
+      "calls": 3,
+      "websites": 12,
+      "shares": 5
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-11-23",
+      "clicks": 15,
+      "directions": 20,
+      "calls": 5,
+      "websites": 6,
+      "shares": 5
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-11-22",
+      "clicks": 16,
+      "directions": 14,
+      "calls": 10,
+      "websites": 21,
+      "shares": 8
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-11-22",
+      "clicks": 17,
+      "directions": 20,
+      "calls": 11,
+      "websites": 21,
+      "shares": 8
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-11-22",
+      "clicks": 14,
+      "directions": 16,
+      "calls": 4,
+      "websites": 8,
+      "shares": 9
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-11-22",
+      "clicks": 56,
+      "directions": 17,
+      "calls": 16,
+      "websites": 19,
+      "shares": 5
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-11-22",
+      "clicks": 26,
+      "directions": 15,
+      "calls": 3,
+      "websites": 5,
+      "shares": 9
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-11-21",
+      "clicks": 43,
+      "directions": 10,
+      "calls": 14,
+      "websites": 17,
+      "shares": 10
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-11-21",
+      "clicks": 34,
+      "directions": 8,
+      "calls": 8,
+      "websites": 16,
+      "shares": 6
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-11-21",
+      "clicks": 48,
+      "directions": 6,
+      "calls": 6,
+      "websites": 7,
+      "shares": 5
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-11-21",
+      "clicks": 10,
+      "directions": 11,
+      "calls": 4,
+      "websites": 5,
+      "shares": 6
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-11-21",
+      "clicks": 27,
+      "directions": 11,
+      "calls": 6,
+      "websites": 13,
+      "shares": 7
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-11-20",
+      "clicks": 57,
+      "directions": 11,
+      "calls": 7,
+      "websites": 13,
+      "shares": 10
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-11-20",
+      "clicks": 22,
+      "directions": 14,
+      "calls": 9,
+      "websites": 11,
+      "shares": 8
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-11-20",
+      "clicks": 59,
+      "directions": 13,
+      "calls": 7,
+      "websites": 27,
+      "shares": 3
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-11-20",
+      "clicks": 15,
+      "directions": 18,
+      "calls": 9,
+      "websites": 22,
+      "shares": 7
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-11-20",
+      "clicks": 54,
+      "directions": 5,
+      "calls": 16,
+      "websites": 22,
+      "shares": 3
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-11-19",
+      "clicks": 55,
+      "directions": 20,
+      "calls": 6,
+      "websites": 20,
+      "shares": 8
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-11-19",
+      "clicks": 43,
+      "directions": 11,
+      "calls": 15,
+      "websites": 26,
+      "shares": 6
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-11-19",
+      "clicks": 35,
+      "directions": 10,
+      "calls": 5,
+      "websites": 11,
+      "shares": 8
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-11-19",
+      "clicks": 37,
+      "directions": 8,
+      "calls": 14,
+      "websites": 6,
+      "shares": 9
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-11-19",
+      "clicks": 10,
+      "directions": 21,
+      "calls": 11,
+      "websites": 28,
+      "shares": 10
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-11-18",
+      "clicks": 25,
+      "directions": 9,
+      "calls": 10,
+      "websites": 17,
+      "shares": 6
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-11-18",
+      "clicks": 32,
+      "directions": 7,
+      "calls": 7,
+      "websites": 27,
+      "shares": 1
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-11-18",
+      "clicks": 36,
+      "directions": 24,
+      "calls": 9,
+      "websites": 26,
+      "shares": 9
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-11-18",
+      "clicks": 37,
+      "directions": 8,
+      "calls": 12,
+      "websites": 7,
+      "shares": 9
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-11-18",
+      "clicks": 45,
+      "directions": 8,
+      "calls": 4,
+      "websites": 17,
+      "shares": 2
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-11-17",
+      "clicks": 27,
+      "directions": 21,
+      "calls": 17,
+      "websites": 7,
+      "shares": 6
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-11-17",
+      "clicks": 22,
+      "directions": 16,
+      "calls": 3,
+      "websites": 22,
+      "shares": 3
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-11-17",
+      "clicks": 33,
+      "directions": 11,
+      "calls": 6,
+      "websites": 14,
+      "shares": 8
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-11-17",
+      "clicks": 10,
+      "directions": 23,
+      "calls": 5,
+      "websites": 11,
+      "shares": 7
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-11-17",
+      "clicks": 56,
+      "directions": 11,
+      "calls": 12,
+      "websites": 27,
+      "shares": 1
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-11-16",
+      "clicks": 44,
+      "directions": 23,
+      "calls": 13,
+      "websites": 21,
+      "shares": 9
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-11-16",
+      "clicks": 45,
+      "directions": 13,
+      "calls": 13,
+      "websites": 18,
+      "shares": 7
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-11-16",
+      "clicks": 11,
+      "directions": 21,
+      "calls": 5,
+      "websites": 11,
+      "shares": 4
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-11-16",
+      "clicks": 53,
+      "directions": 22,
+      "calls": 3,
+      "websites": 13,
+      "shares": 10
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-11-16",
+      "clicks": 21,
+      "directions": 20,
+      "calls": 7,
+      "websites": 8,
+      "shares": 5
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-11-15",
+      "clicks": 40,
+      "directions": 15,
+      "calls": 3,
+      "websites": 14,
+      "shares": 7
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-11-15",
+      "clicks": 52,
+      "directions": 22,
+      "calls": 9,
+      "websites": 13,
+      "shares": 4
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-11-15",
+      "clicks": 24,
+      "directions": 21,
+      "calls": 8,
+      "websites": 11,
+      "shares": 9
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-11-15",
+      "clicks": 32,
+      "directions": 21,
+      "calls": 13,
+      "websites": 12,
+      "shares": 9
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-11-15",
+      "clicks": 37,
+      "directions": 13,
+      "calls": 16,
+      "websites": 20,
+      "shares": 8
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-11-14",
+      "clicks": 22,
+      "directions": 16,
+      "calls": 13,
+      "websites": 27,
+      "shares": 4
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-11-14",
+      "clicks": 15,
+      "directions": 18,
+      "calls": 17,
+      "websites": 9,
+      "shares": 2
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-11-14",
+      "clicks": 55,
+      "directions": 19,
+      "calls": 7,
+      "websites": 14,
+      "shares": 5
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-11-14",
+      "clicks": 22,
+      "directions": 18,
+      "calls": 5,
+      "websites": 15,
+      "shares": 5
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-11-14",
+      "clicks": 57,
+      "directions": 17,
+      "calls": 15,
+      "websites": 29,
+      "shares": 6
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-11-13",
+      "clicks": 15,
+      "directions": 16,
+      "calls": 3,
+      "websites": 25,
+      "shares": 2
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-11-13",
+      "clicks": 57,
+      "directions": 11,
+      "calls": 15,
+      "websites": 16,
+      "shares": 3
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-11-13",
+      "clicks": 38,
+      "directions": 13,
+      "calls": 9,
+      "websites": 14,
+      "shares": 4
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-11-13",
+      "clicks": 48,
+      "directions": 17,
+      "calls": 3,
+      "websites": 6,
+      "shares": 10
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-11-13",
+      "clicks": 29,
+      "directions": 8,
+      "calls": 12,
+      "websites": 12,
+      "shares": 6
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-11-12",
+      "clicks": 23,
+      "directions": 24,
+      "calls": 9,
+      "websites": 11,
+      "shares": 9
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-11-12",
+      "clicks": 37,
+      "directions": 8,
+      "calls": 7,
+      "websites": 21,
+      "shares": 9
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-11-12",
+      "clicks": 32,
+      "directions": 14,
+      "calls": 5,
+      "websites": 21,
+      "shares": 5
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-11-12",
+      "clicks": 33,
+      "directions": 6,
+      "calls": 12,
+      "websites": 24,
+      "shares": 3
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-11-12",
+      "clicks": 45,
+      "directions": 14,
+      "calls": 15,
+      "websites": 9,
+      "shares": 9
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-11-11",
+      "clicks": 25,
+      "directions": 14,
+      "calls": 4,
+      "websites": 5,
+      "shares": 3
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-11-11",
+      "clicks": 12,
+      "directions": 17,
+      "calls": 11,
+      "websites": 29,
+      "shares": 9
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-11-11",
+      "clicks": 18,
+      "directions": 12,
+      "calls": 13,
+      "websites": 10,
+      "shares": 3
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-11-11",
+      "clicks": 22,
+      "directions": 23,
+      "calls": 5,
+      "websites": 20,
+      "shares": 8
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-11-11",
+      "clicks": 57,
+      "directions": 6,
+      "calls": 6,
+      "websites": 10,
+      "shares": 4
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-11-10",
+      "clicks": 41,
+      "directions": 11,
+      "calls": 5,
+      "websites": 5,
+      "shares": 5
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-11-10",
+      "clicks": 55,
+      "directions": 17,
+      "calls": 17,
+      "websites": 27,
+      "shares": 10
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-11-10",
+      "clicks": 14,
+      "directions": 9,
+      "calls": 14,
+      "websites": 28,
+      "shares": 7
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-11-10",
+      "clicks": 51,
+      "directions": 14,
+      "calls": 14,
+      "websites": 22,
+      "shares": 7
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-11-10",
+      "clicks": 21,
+      "directions": 8,
+      "calls": 8,
+      "websites": 7,
+      "shares": 7
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-11-09",
+      "clicks": 51,
+      "directions": 7,
+      "calls": 16,
+      "websites": 14,
+      "shares": 3
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-11-09",
+      "clicks": 44,
+      "directions": 18,
+      "calls": 16,
+      "websites": 11,
+      "shares": 6
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-11-09",
+      "clicks": 58,
+      "directions": 5,
+      "calls": 3,
+      "websites": 5,
+      "shares": 4
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-11-09",
+      "clicks": 46,
+      "directions": 15,
+      "calls": 10,
+      "websites": 19,
+      "shares": 8
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-11-09",
+      "clicks": 13,
+      "directions": 7,
+      "calls": 4,
+      "websites": 7,
+      "shares": 9
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-11-08",
+      "clicks": 20,
+      "directions": 16,
+      "calls": 8,
+      "websites": 5,
+      "shares": 10
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-11-08",
+      "clicks": 39,
+      "directions": 22,
+      "calls": 15,
+      "websites": 17,
+      "shares": 2
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-11-08",
+      "clicks": 12,
+      "directions": 10,
+      "calls": 6,
+      "websites": 21,
+      "shares": 9
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-11-08",
+      "clicks": 14,
+      "directions": 22,
+      "calls": 8,
+      "websites": 23,
+      "shares": 1
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-11-08",
+      "clicks": 29,
+      "directions": 12,
+      "calls": 3,
+      "websites": 10,
+      "shares": 4
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-11-07",
+      "clicks": 39,
+      "directions": 18,
+      "calls": 9,
+      "websites": 27,
+      "shares": 4
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-11-07",
+      "clicks": 16,
+      "directions": 12,
+      "calls": 14,
+      "websites": 29,
+      "shares": 7
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-11-07",
+      "clicks": 10,
+      "directions": 7,
+      "calls": 6,
+      "websites": 21,
+      "shares": 8
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-11-07",
+      "clicks": 11,
+      "directions": 8,
+      "calls": 15,
+      "websites": 19,
+      "shares": 1
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-11-07",
+      "clicks": 14,
+      "directions": 22,
+      "calls": 14,
+      "websites": 11,
+      "shares": 4
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-11-06",
+      "clicks": 14,
+      "directions": 10,
+      "calls": 17,
+      "websites": 17,
+      "shares": 5
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-11-06",
+      "clicks": 50,
+      "directions": 10,
+      "calls": 9,
+      "websites": 5,
+      "shares": 5
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-11-06",
+      "clicks": 51,
+      "directions": 22,
+      "calls": 8,
+      "websites": 12,
+      "shares": 1
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-11-06",
+      "clicks": 43,
+      "directions": 6,
+      "calls": 7,
+      "websites": 19,
+      "shares": 6
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-11-06",
+      "clicks": 52,
+      "directions": 16,
+      "calls": 3,
+      "websites": 13,
+      "shares": 6
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-11-05",
+      "clicks": 29,
+      "directions": 9,
+      "calls": 7,
+      "websites": 11,
+      "shares": 8
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-11-05",
+      "clicks": 31,
+      "directions": 12,
+      "calls": 9,
+      "websites": 16,
+      "shares": 1
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-11-05",
+      "clicks": 35,
+      "directions": 19,
+      "calls": 8,
+      "websites": 26,
+      "shares": 7
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-11-05",
+      "clicks": 14,
+      "directions": 12,
+      "calls": 5,
+      "websites": 16,
+      "shares": 3
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-11-05",
+      "clicks": 50,
+      "directions": 15,
+      "calls": 15,
+      "websites": 27,
+      "shares": 7
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-11-04",
+      "clicks": 34,
+      "directions": 6,
+      "calls": 14,
+      "websites": 16,
+      "shares": 1
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-11-04",
+      "clicks": 56,
+      "directions": 15,
+      "calls": 7,
+      "websites": 20,
+      "shares": 6
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-11-04",
+      "clicks": 26,
+      "directions": 23,
+      "calls": 4,
+      "websites": 19,
+      "shares": 3
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-11-04",
+      "clicks": 44,
+      "directions": 10,
+      "calls": 15,
+      "websites": 6,
+      "shares": 9
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-11-04",
+      "clicks": 31,
+      "directions": 5,
+      "calls": 13,
+      "websites": 12,
+      "shares": 5
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-11-03",
+      "clicks": 23,
+      "directions": 21,
+      "calls": 12,
+      "websites": 15,
+      "shares": 3
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-11-03",
+      "clicks": 22,
+      "directions": 13,
+      "calls": 13,
+      "websites": 6,
+      "shares": 2
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-11-03",
+      "clicks": 27,
+      "directions": 13,
+      "calls": 8,
+      "websites": 12,
+      "shares": 6
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-11-03",
+      "clicks": 54,
+      "directions": 23,
+      "calls": 4,
+      "websites": 7,
+      "shares": 7
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-11-03",
+      "clicks": 29,
+      "directions": 7,
+      "calls": 17,
+      "websites": 8,
+      "shares": 4
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-11-02",
+      "clicks": 47,
+      "directions": 15,
+      "calls": 12,
+      "websites": 13,
+      "shares": 1
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-11-02",
+      "clicks": 58,
+      "directions": 23,
+      "calls": 9,
+      "websites": 26,
+      "shares": 3
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-11-02",
+      "clicks": 40,
+      "directions": 11,
+      "calls": 11,
+      "websites": 10,
+      "shares": 10
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-11-02",
+      "clicks": 38,
+      "directions": 17,
+      "calls": 16,
+      "websites": 8,
+      "shares": 2
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-11-02",
+      "clicks": 48,
+      "directions": 15,
+      "calls": 12,
+      "websites": 21,
+      "shares": 7
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-11-01",
+      "clicks": 13,
+      "directions": 14,
+      "calls": 17,
+      "websites": 15,
+      "shares": 9
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-11-01",
+      "clicks": 44,
+      "directions": 7,
+      "calls": 16,
+      "websites": 16,
+      "shares": 1
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-11-01",
+      "clicks": 11,
+      "directions": 9,
+      "calls": 5,
+      "websites": 23,
+      "shares": 4
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-11-01",
+      "clicks": 36,
+      "directions": 9,
+      "calls": 12,
+      "websites": 21,
+      "shares": 3
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-11-01",
+      "clicks": 55,
+      "directions": 8,
+      "calls": 6,
+      "websites": 28,
+      "shares": 7
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-10-31",
+      "clicks": 57,
+      "directions": 21,
+      "calls": 8,
+      "websites": 8,
+      "shares": 7
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-10-31",
+      "clicks": 17,
+      "directions": 16,
+      "calls": 11,
+      "websites": 7,
+      "shares": 9
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-10-31",
+      "clicks": 20,
+      "directions": 11,
+      "calls": 16,
+      "websites": 22,
+      "shares": 6
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-10-31",
+      "clicks": 26,
+      "directions": 18,
+      "calls": 8,
+      "websites": 5,
+      "shares": 9
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-10-31",
+      "clicks": 35,
+      "directions": 20,
+      "calls": 10,
+      "websites": 5,
+      "shares": 10
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-10-30",
+      "clicks": 56,
+      "directions": 24,
+      "calls": 17,
+      "websites": 13,
+      "shares": 3
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-10-30",
+      "clicks": 10,
+      "directions": 22,
+      "calls": 8,
+      "websites": 26,
+      "shares": 6
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-10-30",
+      "clicks": 18,
+      "directions": 13,
+      "calls": 12,
+      "websites": 29,
+      "shares": 10
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-10-30",
+      "clicks": 44,
+      "directions": 5,
+      "calls": 6,
+      "websites": 24,
+      "shares": 5
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-10-30",
+      "clicks": 55,
+      "directions": 15,
+      "calls": 15,
+      "websites": 18,
+      "shares": 7
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-10-29",
+      "clicks": 22,
+      "directions": 7,
+      "calls": 3,
+      "websites": 28,
+      "shares": 6
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-10-29",
+      "clicks": 36,
+      "directions": 7,
+      "calls": 8,
+      "websites": 15,
+      "shares": 7
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-10-29",
+      "clicks": 56,
+      "directions": 17,
+      "calls": 4,
+      "websites": 22,
+      "shares": 2
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-10-29",
+      "clicks": 43,
+      "directions": 12,
+      "calls": 9,
+      "websites": 9,
+      "shares": 4
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-10-29",
+      "clicks": 26,
+      "directions": 8,
+      "calls": 7,
+      "websites": 8,
+      "shares": 7
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-10-28",
+      "clicks": 20,
+      "directions": 16,
+      "calls": 14,
+      "websites": 25,
+      "shares": 7
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-10-28",
+      "clicks": 33,
+      "directions": 8,
+      "calls": 10,
+      "websites": 11,
+      "shares": 6
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-10-28",
+      "clicks": 41,
+      "directions": 5,
+      "calls": 17,
+      "websites": 14,
+      "shares": 3
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-10-28",
+      "clicks": 55,
+      "directions": 10,
+      "calls": 4,
+      "websites": 23,
+      "shares": 2
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-10-28",
+      "clicks": 26,
+      "directions": 20,
+      "calls": 13,
+      "websites": 8,
+      "shares": 3
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-10-27",
+      "clicks": 35,
+      "directions": 12,
+      "calls": 9,
+      "websites": 6,
+      "shares": 3
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-10-27",
+      "clicks": 30,
+      "directions": 15,
+      "calls": 3,
+      "websites": 25,
+      "shares": 5
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-10-27",
+      "clicks": 59,
+      "directions": 18,
+      "calls": 8,
+      "websites": 15,
+      "shares": 3
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-10-27",
+      "clicks": 13,
+      "directions": 11,
+      "calls": 16,
+      "websites": 15,
+      "shares": 6
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-10-27",
+      "clicks": 35,
+      "directions": 17,
+      "calls": 7,
+      "websites": 17,
+      "shares": 4
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-10-26",
+      "clicks": 32,
+      "directions": 20,
+      "calls": 16,
+      "websites": 7,
+      "shares": 3
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-10-26",
+      "clicks": 50,
+      "directions": 10,
+      "calls": 4,
+      "websites": 28,
+      "shares": 7
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-10-26",
+      "clicks": 28,
+      "directions": 23,
+      "calls": 16,
+      "websites": 22,
+      "shares": 1
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-10-26",
+      "clicks": 46,
+      "directions": 14,
+      "calls": 3,
+      "websites": 13,
+      "shares": 10
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-10-26",
+      "clicks": 31,
+      "directions": 20,
+      "calls": 16,
+      "websites": 19,
+      "shares": 6
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-10-25",
+      "clicks": 17,
+      "directions": 13,
+      "calls": 12,
+      "websites": 8,
+      "shares": 4
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-10-25",
+      "clicks": 19,
+      "directions": 23,
+      "calls": 8,
+      "websites": 5,
+      "shares": 10
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-10-25",
+      "clicks": 46,
+      "directions": 19,
+      "calls": 13,
+      "websites": 27,
+      "shares": 8
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-10-25",
+      "clicks": 13,
+      "directions": 19,
+      "calls": 10,
+      "websites": 19,
+      "shares": 1
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-10-25",
+      "clicks": 28,
+      "directions": 15,
+      "calls": 14,
+      "websites": 28,
+      "shares": 5
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-10-24",
+      "clicks": 40,
+      "directions": 7,
+      "calls": 3,
+      "websites": 19,
+      "shares": 4
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-10-24",
+      "clicks": 19,
+      "directions": 6,
+      "calls": 15,
+      "websites": 28,
+      "shares": 10
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-10-24",
+      "clicks": 18,
+      "directions": 19,
+      "calls": 9,
+      "websites": 13,
+      "shares": 6
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-10-24",
+      "clicks": 24,
+      "directions": 21,
+      "calls": 5,
+      "websites": 26,
+      "shares": 2
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-10-24",
+      "clicks": 56,
+      "directions": 20,
+      "calls": 12,
+      "websites": 17,
+      "shares": 2
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-10-23",
+      "clicks": 53,
+      "directions": 22,
+      "calls": 5,
+      "websites": 13,
+      "shares": 7
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-10-23",
+      "clicks": 23,
+      "directions": 7,
+      "calls": 9,
+      "websites": 24,
+      "shares": 1
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-10-23",
+      "clicks": 45,
+      "directions": 23,
+      "calls": 6,
+      "websites": 16,
+      "shares": 1
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-10-23",
+      "clicks": 44,
+      "directions": 17,
+      "calls": 8,
+      "websites": 21,
+      "shares": 2
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-10-23",
+      "clicks": 55,
+      "directions": 9,
+      "calls": 6,
+      "websites": 5,
+      "shares": 8
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-10-22",
+      "clicks": 36,
+      "directions": 11,
+      "calls": 12,
+      "websites": 20,
+      "shares": 10
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-10-22",
+      "clicks": 49,
+      "directions": 13,
+      "calls": 15,
+      "websites": 17,
+      "shares": 4
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-10-22",
+      "clicks": 22,
+      "directions": 12,
+      "calls": 17,
+      "websites": 29,
+      "shares": 10
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-10-22",
+      "clicks": 50,
+      "directions": 5,
+      "calls": 17,
+      "websites": 10,
+      "shares": 8
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-10-22",
+      "clicks": 39,
+      "directions": 16,
+      "calls": 5,
+      "websites": 25,
+      "shares": 6
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-10-21",
+      "clicks": 43,
+      "directions": 8,
+      "calls": 8,
+      "websites": 11,
+      "shares": 4
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-10-21",
+      "clicks": 14,
+      "directions": 11,
+      "calls": 8,
+      "websites": 26,
+      "shares": 6
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-10-21",
+      "clicks": 46,
+      "directions": 23,
+      "calls": 9,
+      "websites": 24,
+      "shares": 4
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-10-21",
+      "clicks": 40,
+      "directions": 6,
+      "calls": 17,
+      "websites": 8,
+      "shares": 3
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-10-21",
+      "clicks": 35,
+      "directions": 19,
+      "calls": 13,
+      "websites": 16,
+      "shares": 4
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-10-20",
+      "clicks": 12,
+      "directions": 15,
+      "calls": 16,
+      "websites": 25,
+      "shares": 9
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-10-20",
+      "clicks": 41,
+      "directions": 8,
+      "calls": 15,
+      "websites": 16,
+      "shares": 3
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-10-20",
+      "clicks": 49,
+      "directions": 16,
+      "calls": 13,
+      "websites": 25,
+      "shares": 4
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-10-20",
+      "clicks": 27,
+      "directions": 20,
+      "calls": 9,
+      "websites": 7,
+      "shares": 4
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-10-20",
+      "clicks": 40,
+      "directions": 12,
+      "calls": 5,
+      "websites": 18,
+      "shares": 3
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-10-19",
+      "clicks": 44,
+      "directions": 7,
+      "calls": 7,
+      "websites": 13,
+      "shares": 9
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-10-19",
+      "clicks": 29,
+      "directions": 14,
+      "calls": 4,
+      "websites": 28,
+      "shares": 8
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-10-19",
+      "clicks": 51,
+      "directions": 7,
+      "calls": 4,
+      "websites": 25,
+      "shares": 6
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-10-19",
+      "clicks": 21,
+      "directions": 10,
+      "calls": 10,
+      "websites": 14,
+      "shares": 8
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-10-19",
+      "clicks": 19,
+      "directions": 14,
+      "calls": 13,
+      "websites": 27,
+      "shares": 9
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-10-18",
+      "clicks": 29,
+      "directions": 15,
+      "calls": 6,
+      "websites": 26,
+      "shares": 5
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-10-18",
+      "clicks": 24,
+      "directions": 8,
+      "calls": 6,
+      "websites": 12,
+      "shares": 3
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-10-18",
+      "clicks": 14,
+      "directions": 5,
+      "calls": 12,
+      "websites": 14,
+      "shares": 9
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-10-18",
+      "clicks": 28,
+      "directions": 16,
+      "calls": 10,
+      "websites": 27,
+      "shares": 3
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-10-18",
+      "clicks": 15,
+      "directions": 9,
+      "calls": 13,
+      "websites": 28,
+      "shares": 7
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-10-17",
+      "clicks": 10,
+      "directions": 12,
+      "calls": 17,
+      "websites": 6,
+      "shares": 7
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-10-17",
+      "clicks": 17,
+      "directions": 14,
+      "calls": 10,
+      "websites": 27,
+      "shares": 10
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-10-17",
+      "clicks": 49,
+      "directions": 14,
+      "calls": 17,
+      "websites": 6,
+      "shares": 5
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-10-17",
+      "clicks": 55,
+      "directions": 22,
+      "calls": 3,
+      "websites": 13,
+      "shares": 8
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-10-17",
+      "clicks": 36,
+      "directions": 24,
+      "calls": 6,
+      "websites": 29,
+      "shares": 2
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-10-16",
+      "clicks": 23,
+      "directions": 16,
+      "calls": 6,
+      "websites": 29,
+      "shares": 4
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-10-16",
+      "clicks": 21,
+      "directions": 6,
+      "calls": 4,
+      "websites": 13,
+      "shares": 4
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-10-16",
+      "clicks": 20,
+      "directions": 14,
+      "calls": 15,
+      "websites": 7,
+      "shares": 2
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-10-16",
+      "clicks": 49,
+      "directions": 23,
+      "calls": 11,
+      "websites": 19,
+      "shares": 9
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-10-16",
+      "clicks": 51,
+      "directions": 11,
+      "calls": 7,
+      "websites": 28,
+      "shares": 1
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-10-15",
+      "clicks": 20,
+      "directions": 12,
+      "calls": 14,
+      "websites": 23,
+      "shares": 10
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-10-15",
+      "clicks": 34,
+      "directions": 19,
+      "calls": 17,
+      "websites": 5,
+      "shares": 10
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-10-15",
+      "clicks": 39,
+      "directions": 6,
+      "calls": 13,
+      "websites": 23,
+      "shares": 10
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-10-15",
+      "clicks": 47,
+      "directions": 15,
+      "calls": 7,
+      "websites": 20,
+      "shares": 10
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-10-15",
+      "clicks": 54,
+      "directions": 10,
+      "calls": 5,
+      "websites": 22,
+      "shares": 9
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-10-14",
+      "clicks": 21,
+      "directions": 13,
+      "calls": 4,
+      "websites": 9,
+      "shares": 3
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-10-14",
+      "clicks": 17,
+      "directions": 23,
+      "calls": 8,
+      "websites": 15,
+      "shares": 4
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-10-14",
+      "clicks": 34,
+      "directions": 10,
+      "calls": 12,
+      "websites": 13,
+      "shares": 5
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-10-14",
+      "clicks": 14,
+      "directions": 16,
+      "calls": 17,
+      "websites": 9,
+      "shares": 7
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-10-14",
+      "clicks": 40,
+      "directions": 12,
+      "calls": 10,
+      "websites": 17,
+      "shares": 3
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-10-13",
+      "clicks": 49,
+      "directions": 12,
+      "calls": 9,
+      "websites": 20,
+      "shares": 9
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-10-13",
+      "clicks": 13,
+      "directions": 22,
+      "calls": 8,
+      "websites": 22,
+      "shares": 4
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-10-13",
+      "clicks": 59,
+      "directions": 6,
+      "calls": 6,
+      "websites": 11,
+      "shares": 5
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-10-13",
+      "clicks": 38,
+      "directions": 20,
+      "calls": 7,
+      "websites": 17,
+      "shares": 7
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-10-13",
+      "clicks": 10,
+      "directions": 13,
+      "calls": 15,
+      "websites": 17,
+      "shares": 4
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-10-12",
+      "clicks": 17,
+      "directions": 20,
+      "calls": 11,
+      "websites": 26,
+      "shares": 6
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-10-12",
+      "clicks": 16,
+      "directions": 20,
+      "calls": 13,
+      "websites": 20,
+      "shares": 9
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-10-12",
+      "clicks": 41,
+      "directions": 18,
+      "calls": 15,
+      "websites": 13,
+      "shares": 5
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-10-12",
+      "clicks": 58,
+      "directions": 21,
+      "calls": 9,
+      "websites": 18,
+      "shares": 8
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-10-12",
+      "clicks": 51,
+      "directions": 10,
+      "calls": 10,
+      "websites": 5,
+      "shares": 1
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-10-11",
+      "clicks": 43,
+      "directions": 6,
+      "calls": 14,
+      "websites": 24,
+      "shares": 1
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-10-11",
+      "clicks": 43,
+      "directions": 16,
+      "calls": 5,
+      "websites": 22,
+      "shares": 10
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-10-11",
+      "clicks": 44,
+      "directions": 16,
+      "calls": 15,
+      "websites": 22,
+      "shares": 7
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-10-11",
+      "clicks": 41,
+      "directions": 10,
+      "calls": 4,
+      "websites": 21,
+      "shares": 1
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-10-11",
+      "clicks": 56,
+      "directions": 24,
+      "calls": 11,
+      "websites": 24,
+      "shares": 3
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-10-10",
+      "clicks": 21,
+      "directions": 20,
+      "calls": 14,
+      "websites": 7,
+      "shares": 2
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-10-10",
+      "clicks": 13,
+      "directions": 5,
+      "calls": 7,
+      "websites": 28,
+      "shares": 4
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-10-10",
+      "clicks": 18,
+      "directions": 22,
+      "calls": 7,
+      "websites": 22,
+      "shares": 4
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-10-10",
+      "clicks": 45,
+      "directions": 15,
+      "calls": 12,
+      "websites": 17,
+      "shares": 6
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-10-10",
+      "clicks": 29,
+      "directions": 20,
+      "calls": 11,
+      "websites": 15,
+      "shares": 3
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-10-09",
+      "clicks": 58,
+      "directions": 21,
+      "calls": 6,
+      "websites": 19,
+      "shares": 7
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-10-09",
+      "clicks": 28,
+      "directions": 19,
+      "calls": 15,
+      "websites": 14,
+      "shares": 3
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-10-09",
+      "clicks": 11,
+      "directions": 7,
+      "calls": 10,
+      "websites": 6,
+      "shares": 7
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-10-09",
+      "clicks": 38,
+      "directions": 13,
+      "calls": 3,
+      "websites": 13,
+      "shares": 8
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-10-09",
+      "clicks": 27,
+      "directions": 21,
+      "calls": 5,
+      "websites": 24,
+      "shares": 10
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-10-08",
+      "clicks": 50,
+      "directions": 15,
+      "calls": 7,
+      "websites": 29,
+      "shares": 6
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-10-08",
+      "clicks": 41,
+      "directions": 20,
+      "calls": 17,
+      "websites": 11,
+      "shares": 3
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-10-08",
+      "clicks": 36,
+      "directions": 23,
+      "calls": 10,
+      "websites": 9,
+      "shares": 5
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-10-08",
+      "clicks": 39,
+      "directions": 19,
+      "calls": 7,
+      "websites": 24,
+      "shares": 2
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-10-08",
+      "clicks": 20,
+      "directions": 17,
+      "calls": 15,
+      "websites": 26,
+      "shares": 3
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-10-07",
+      "clicks": 14,
+      "directions": 12,
+      "calls": 5,
+      "websites": 19,
+      "shares": 2
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-10-07",
+      "clicks": 42,
+      "directions": 23,
+      "calls": 11,
+      "websites": 6,
+      "shares": 8
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-10-07",
+      "clicks": 12,
+      "directions": 22,
+      "calls": 12,
+      "websites": 11,
+      "shares": 9
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-10-07",
+      "clicks": 19,
+      "directions": 7,
+      "calls": 5,
+      "websites": 21,
+      "shares": 2
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-10-07",
+      "clicks": 29,
+      "directions": 14,
+      "calls": 11,
+      "websites": 6,
+      "shares": 5
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-10-06",
+      "clicks": 38,
+      "directions": 15,
+      "calls": 9,
+      "websites": 7,
+      "shares": 3
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-10-06",
+      "clicks": 59,
+      "directions": 7,
+      "calls": 10,
+      "websites": 17,
+      "shares": 9
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-10-06",
+      "clicks": 15,
+      "directions": 16,
+      "calls": 15,
+      "websites": 12,
+      "shares": 1
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-10-06",
+      "clicks": 41,
+      "directions": 20,
+      "calls": 10,
+      "websites": 12,
+      "shares": 2
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-10-06",
+      "clicks": 30,
+      "directions": 6,
+      "calls": 9,
+      "websites": 9,
+      "shares": 4
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-10-05",
+      "clicks": 39,
+      "directions": 23,
+      "calls": 15,
+      "websites": 5,
+      "shares": 9
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-10-05",
+      "clicks": 26,
+      "directions": 14,
+      "calls": 14,
+      "websites": 23,
+      "shares": 2
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-10-05",
+      "clicks": 59,
+      "directions": 24,
+      "calls": 4,
+      "websites": 5,
+      "shares": 1
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-10-05",
+      "clicks": 28,
+      "directions": 15,
+      "calls": 6,
+      "websites": 20,
+      "shares": 3
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-10-05",
+      "clicks": 16,
+      "directions": 13,
+      "calls": 6,
+      "websites": 16,
+      "shares": 7
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-10-04",
+      "clicks": 12,
+      "directions": 18,
+      "calls": 6,
+      "websites": 16,
+      "shares": 5
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-10-04",
+      "clicks": 40,
+      "directions": 13,
+      "calls": 5,
+      "websites": 27,
+      "shares": 2
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-10-04",
+      "clicks": 51,
+      "directions": 23,
+      "calls": 5,
+      "websites": 10,
+      "shares": 10
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-10-04",
+      "clicks": 29,
+      "directions": 8,
+      "calls": 5,
+      "websites": 9,
+      "shares": 3
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-10-04",
+      "clicks": 54,
+      "directions": 20,
+      "calls": 3,
+      "websites": 7,
+      "shares": 2
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-10-03",
+      "clicks": 59,
+      "directions": 20,
+      "calls": 3,
+      "websites": 5,
+      "shares": 9
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-10-03",
+      "clicks": 14,
+      "directions": 9,
+      "calls": 11,
+      "websites": 14,
+      "shares": 10
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-10-03",
+      "clicks": 55,
+      "directions": 8,
+      "calls": 8,
+      "websites": 15,
+      "shares": 10
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-10-03",
+      "clicks": 17,
+      "directions": 15,
+      "calls": 16,
+      "websites": 8,
+      "shares": 2
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-10-03",
+      "clicks": 30,
+      "directions": 14,
+      "calls": 6,
+      "websites": 14,
+      "shares": 1
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-10-02",
+      "clicks": 32,
+      "directions": 12,
+      "calls": 16,
+      "websites": 14,
+      "shares": 9
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-10-02",
+      "clicks": 29,
+      "directions": 16,
+      "calls": 4,
+      "websites": 6,
+      "shares": 4
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-10-02",
+      "clicks": 45,
+      "directions": 24,
+      "calls": 8,
+      "websites": 19,
+      "shares": 8
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-10-02",
+      "clicks": 16,
+      "directions": 10,
+      "calls": 9,
+      "websites": 12,
+      "shares": 4
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-10-02",
+      "clicks": 12,
+      "directions": 21,
+      "calls": 12,
+      "websites": 29,
+      "shares": 4
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-10-01",
+      "clicks": 27,
+      "directions": 10,
+      "calls": 15,
+      "websites": 7,
+      "shares": 5
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-10-01",
+      "clicks": 19,
+      "directions": 6,
+      "calls": 7,
+      "websites": 20,
+      "shares": 2
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-10-01",
+      "clicks": 56,
+      "directions": 14,
+      "calls": 11,
+      "websites": 10,
+      "shares": 3
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-10-01",
+      "clicks": 36,
+      "directions": 16,
+      "calls": 15,
+      "websites": 27,
+      "shares": 3
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-10-01",
+      "clicks": 42,
+      "directions": 23,
+      "calls": 9,
+      "websites": 11,
+      "shares": 4
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-09-30",
+      "clicks": 25,
+      "directions": 17,
+      "calls": 13,
+      "websites": 11,
+      "shares": 5
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-09-30",
+      "clicks": 56,
+      "directions": 10,
+      "calls": 3,
+      "websites": 6,
+      "shares": 8
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-09-30",
+      "clicks": 39,
+      "directions": 5,
+      "calls": 9,
+      "websites": 29,
+      "shares": 1
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-09-30",
+      "clicks": 45,
+      "directions": 6,
+      "calls": 15,
+      "websites": 10,
+      "shares": 10
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-09-30",
+      "clicks": 32,
+      "directions": 10,
+      "calls": 7,
+      "websites": 6,
+      "shares": 4
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-09-29",
+      "clicks": 45,
+      "directions": 5,
+      "calls": 9,
+      "websites": 6,
+      "shares": 6
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-09-29",
+      "clicks": 15,
+      "directions": 8,
+      "calls": 17,
+      "websites": 14,
+      "shares": 2
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-09-29",
+      "clicks": 33,
+      "directions": 8,
+      "calls": 3,
+      "websites": 27,
+      "shares": 1
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-09-29",
+      "clicks": 33,
+      "directions": 8,
+      "calls": 3,
+      "websites": 6,
+      "shares": 7
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-09-29",
+      "clicks": 25,
+      "directions": 5,
+      "calls": 9,
+      "websites": 5,
+      "shares": 3
+    },
+    {
+      "name": "George Blinds & Awnings",
+      "date": "2025-09-28",
+      "clicks": 25,
+      "directions": 14,
+      "calls": 17,
+      "websites": 28,
+      "shares": 10
+    },
+    {
+      "name": "George Car Hire",
+      "date": "2025-09-28",
+      "clicks": 47,
+      "directions": 13,
+      "calls": 9,
+      "websites": 13,
+      "shares": 7
+    },
+    {
+      "name": "Garden Route Dental",
+      "date": "2025-09-28",
+      "clicks": 23,
+      "directions": 16,
+      "calls": 16,
+      "websites": 10,
+      "shares": 10
+    },
+    {
+      "name": "George Pharmacy",
+      "date": "2025-09-28",
+      "clicks": 12,
+      "directions": 17,
+      "calls": 5,
+      "websites": 12,
+      "shares": 10
+    },
+    {
+      "name": "Knysna Waterfront Hotel",
+      "date": "2025-09-28",
+      "clicks": 33,
+      "directions": 19,
+      "calls": 17,
+      "websites": 25,
+      "shares": 2
+    }
+  ],
+  "blogs": [
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-12-26",
+      "reads": 30,
+      "shares": 6
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-12-26",
+      "reads": 81,
+      "shares": 4
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-12-26",
+      "reads": 41,
+      "shares": 4
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-12-26",
+      "reads": 98,
+      "shares": 15
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-12-26",
+      "reads": 61,
+      "shares": 11
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-12-25",
+      "reads": 86,
+      "shares": 16
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-12-25",
+      "reads": 51,
+      "shares": 10
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-12-25",
+      "reads": 31,
+      "shares": 15
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-12-25",
+      "reads": 53,
+      "shares": 4
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-12-25",
+      "reads": 45,
+      "shares": 11
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-12-24",
+      "reads": 44,
+      "shares": 14
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-12-24",
+      "reads": 54,
+      "shares": 8
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-12-24",
+      "reads": 23,
+      "shares": 14
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-12-24",
+      "reads": 100,
+      "shares": 13
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-12-24",
+      "reads": 48,
+      "shares": 8
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-12-23",
+      "reads": 52,
+      "shares": 11
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-12-23",
+      "reads": 46,
+      "shares": 16
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-12-23",
+      "reads": 113,
+      "shares": 10
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-12-23",
+      "reads": 91,
+      "shares": 8
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-12-23",
+      "reads": 115,
+      "shares": 7
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-12-22",
+      "reads": 85,
+      "shares": 2
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-12-22",
+      "reads": 20,
+      "shares": 2
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-12-22",
+      "reads": 105,
+      "shares": 16
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-12-22",
+      "reads": 113,
+      "shares": 5
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-12-22",
+      "reads": 88,
+      "shares": 6
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-12-21",
+      "reads": 29,
+      "shares": 12
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-12-21",
+      "reads": 73,
+      "shares": 7
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-12-21",
+      "reads": 85,
+      "shares": 8
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-12-21",
+      "reads": 99,
+      "shares": 15
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-12-21",
+      "reads": 107,
+      "shares": 11
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-12-20",
+      "reads": 87,
+      "shares": 7
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-12-20",
+      "reads": 48,
+      "shares": 11
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-12-20",
+      "reads": 26,
+      "shares": 3
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-12-20",
+      "reads": 44,
+      "shares": 11
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-12-20",
+      "reads": 72,
+      "shares": 11
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-12-19",
+      "reads": 24,
+      "shares": 13
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-12-19",
+      "reads": 94,
+      "shares": 2
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-12-19",
+      "reads": 52,
+      "shares": 16
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-12-19",
+      "reads": 97,
+      "shares": 5
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-12-19",
+      "reads": 37,
+      "shares": 2
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-12-18",
+      "reads": 74,
+      "shares": 6
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-12-18",
+      "reads": 33,
+      "shares": 8
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-12-18",
+      "reads": 51,
+      "shares": 16
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-12-18",
+      "reads": 58,
+      "shares": 2
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-12-18",
+      "reads": 105,
+      "shares": 13
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-12-17",
+      "reads": 115,
+      "shares": 10
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-12-17",
+      "reads": 91,
+      "shares": 11
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-12-17",
+      "reads": 105,
+      "shares": 14
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-12-17",
+      "reads": 103,
+      "shares": 11
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-12-17",
+      "reads": 76,
+      "shares": 8
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-12-16",
+      "reads": 21,
+      "shares": 13
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-12-16",
+      "reads": 115,
+      "shares": 6
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-12-16",
+      "reads": 108,
+      "shares": 6
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-12-16",
+      "reads": 34,
+      "shares": 3
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-12-16",
+      "reads": 59,
+      "shares": 16
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-12-15",
+      "reads": 78,
+      "shares": 7
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-12-15",
+      "reads": 31,
+      "shares": 6
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-12-15",
+      "reads": 90,
+      "shares": 13
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-12-15",
+      "reads": 56,
+      "shares": 3
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-12-15",
+      "reads": 20,
+      "shares": 9
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-12-14",
+      "reads": 41,
+      "shares": 4
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-12-14",
+      "reads": 35,
+      "shares": 12
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-12-14",
+      "reads": 55,
+      "shares": 8
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-12-14",
+      "reads": 31,
+      "shares": 9
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-12-14",
+      "reads": 49,
+      "shares": 5
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-12-13",
+      "reads": 59,
+      "shares": 13
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-12-13",
+      "reads": 33,
+      "shares": 8
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-12-13",
+      "reads": 110,
+      "shares": 12
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-12-13",
+      "reads": 80,
+      "shares": 5
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-12-13",
+      "reads": 112,
+      "shares": 12
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-12-12",
+      "reads": 74,
+      "shares": 12
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-12-12",
+      "reads": 102,
+      "shares": 15
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-12-12",
+      "reads": 75,
+      "shares": 12
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-12-12",
+      "reads": 70,
+      "shares": 7
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-12-12",
+      "reads": 47,
+      "shares": 4
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-12-11",
+      "reads": 46,
+      "shares": 9
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-12-11",
+      "reads": 68,
+      "shares": 10
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-12-11",
+      "reads": 94,
+      "shares": 12
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-12-11",
+      "reads": 67,
+      "shares": 16
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-12-11",
+      "reads": 83,
+      "shares": 7
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-12-10",
+      "reads": 84,
+      "shares": 9
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-12-10",
+      "reads": 63,
+      "shares": 3
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-12-10",
+      "reads": 21,
+      "shares": 8
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-12-10",
+      "reads": 89,
+      "shares": 4
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-12-10",
+      "reads": 110,
+      "shares": 15
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-12-09",
+      "reads": 69,
+      "shares": 16
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-12-09",
+      "reads": 80,
+      "shares": 11
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-12-09",
+      "reads": 75,
+      "shares": 11
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-12-09",
+      "reads": 25,
+      "shares": 15
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-12-09",
+      "reads": 107,
+      "shares": 9
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-12-08",
+      "reads": 51,
+      "shares": 16
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-12-08",
+      "reads": 70,
+      "shares": 6
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-12-08",
+      "reads": 105,
+      "shares": 8
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-12-08",
+      "reads": 61,
+      "shares": 9
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-12-08",
+      "reads": 80,
+      "shares": 15
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-12-07",
+      "reads": 33,
+      "shares": 15
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-12-07",
+      "reads": 23,
+      "shares": 16
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-12-07",
+      "reads": 26,
+      "shares": 16
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-12-07",
+      "reads": 32,
+      "shares": 4
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-12-07",
+      "reads": 44,
+      "shares": 3
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-12-06",
+      "reads": 74,
+      "shares": 6
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-12-06",
+      "reads": 33,
+      "shares": 9
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-12-06",
+      "reads": 47,
+      "shares": 13
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-12-06",
+      "reads": 90,
+      "shares": 12
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-12-06",
+      "reads": 40,
+      "shares": 4
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-12-05",
+      "reads": 82,
+      "shares": 5
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-12-05",
+      "reads": 48,
+      "shares": 11
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-12-05",
+      "reads": 90,
+      "shares": 7
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-12-05",
+      "reads": 47,
+      "shares": 5
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-12-05",
+      "reads": 117,
+      "shares": 6
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-12-04",
+      "reads": 20,
+      "shares": 15
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-12-04",
+      "reads": 71,
+      "shares": 5
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-12-04",
+      "reads": 90,
+      "shares": 13
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-12-04",
+      "reads": 76,
+      "shares": 2
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-12-04",
+      "reads": 102,
+      "shares": 11
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-12-03",
+      "reads": 93,
+      "shares": 5
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-12-03",
+      "reads": 36,
+      "shares": 3
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-12-03",
+      "reads": 108,
+      "shares": 7
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-12-03",
+      "reads": 64,
+      "shares": 10
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-12-03",
+      "reads": 21,
+      "shares": 8
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-12-02",
+      "reads": 28,
+      "shares": 10
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-12-02",
+      "reads": 56,
+      "shares": 10
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-12-02",
+      "reads": 69,
+      "shares": 12
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-12-02",
+      "reads": 93,
+      "shares": 9
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-12-02",
+      "reads": 47,
+      "shares": 9
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-12-01",
+      "reads": 70,
+      "shares": 3
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-12-01",
+      "reads": 38,
+      "shares": 7
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-12-01",
+      "reads": 32,
+      "shares": 8
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-12-01",
+      "reads": 44,
+      "shares": 8
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-12-01",
+      "reads": 59,
+      "shares": 2
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-11-30",
+      "reads": 111,
+      "shares": 11
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-11-30",
+      "reads": 30,
+      "shares": 3
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-11-30",
+      "reads": 76,
+      "shares": 13
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-11-30",
+      "reads": 52,
+      "shares": 8
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-11-30",
+      "reads": 71,
+      "shares": 3
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-11-29",
+      "reads": 44,
+      "shares": 14
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-11-29",
+      "reads": 43,
+      "shares": 14
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-11-29",
+      "reads": 52,
+      "shares": 16
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-11-29",
+      "reads": 48,
+      "shares": 11
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-11-29",
+      "reads": 22,
+      "shares": 13
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-11-28",
+      "reads": 27,
+      "shares": 16
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-11-28",
+      "reads": 103,
+      "shares": 11
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-11-28",
+      "reads": 30,
+      "shares": 16
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-11-28",
+      "reads": 88,
+      "shares": 13
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-11-28",
+      "reads": 68,
+      "shares": 14
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-11-27",
+      "reads": 34,
+      "shares": 11
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-11-27",
+      "reads": 87,
+      "shares": 2
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-11-27",
+      "reads": 106,
+      "shares": 10
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-11-27",
+      "reads": 82,
+      "shares": 5
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-11-27",
+      "reads": 59,
+      "shares": 9
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-11-26",
+      "reads": 107,
+      "shares": 9
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-11-26",
+      "reads": 58,
+      "shares": 6
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-11-26",
+      "reads": 115,
+      "shares": 14
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-11-26",
+      "reads": 63,
+      "shares": 9
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-11-26",
+      "reads": 77,
+      "shares": 2
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-11-25",
+      "reads": 45,
+      "shares": 10
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-11-25",
+      "reads": 35,
+      "shares": 2
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-11-25",
+      "reads": 34,
+      "shares": 13
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-11-25",
+      "reads": 74,
+      "shares": 15
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-11-25",
+      "reads": 87,
+      "shares": 2
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-11-24",
+      "reads": 52,
+      "shares": 2
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-11-24",
+      "reads": 29,
+      "shares": 14
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-11-24",
+      "reads": 47,
+      "shares": 8
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-11-24",
+      "reads": 25,
+      "shares": 2
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-11-24",
+      "reads": 39,
+      "shares": 8
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-11-23",
+      "reads": 82,
+      "shares": 8
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-11-23",
+      "reads": 106,
+      "shares": 7
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-11-23",
+      "reads": 119,
+      "shares": 3
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-11-23",
+      "reads": 91,
+      "shares": 11
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-11-23",
+      "reads": 104,
+      "shares": 12
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-11-22",
+      "reads": 86,
+      "shares": 7
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-11-22",
+      "reads": 45,
+      "shares": 12
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-11-22",
+      "reads": 112,
+      "shares": 16
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-11-22",
+      "reads": 59,
+      "shares": 13
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-11-22",
+      "reads": 73,
+      "shares": 14
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-11-21",
+      "reads": 87,
+      "shares": 11
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-11-21",
+      "reads": 45,
+      "shares": 8
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-11-21",
+      "reads": 27,
+      "shares": 12
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-11-21",
+      "reads": 68,
+      "shares": 15
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-11-21",
+      "reads": 27,
+      "shares": 15
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-11-20",
+      "reads": 103,
+      "shares": 14
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-11-20",
+      "reads": 39,
+      "shares": 12
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-11-20",
+      "reads": 72,
+      "shares": 8
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-11-20",
+      "reads": 29,
+      "shares": 3
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-11-20",
+      "reads": 60,
+      "shares": 7
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-11-19",
+      "reads": 111,
+      "shares": 9
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-11-19",
+      "reads": 39,
+      "shares": 16
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-11-19",
+      "reads": 88,
+      "shares": 2
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-11-19",
+      "reads": 25,
+      "shares": 9
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-11-19",
+      "reads": 63,
+      "shares": 5
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-11-18",
+      "reads": 87,
+      "shares": 16
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-11-18",
+      "reads": 81,
+      "shares": 5
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-11-18",
+      "reads": 86,
+      "shares": 6
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-11-18",
+      "reads": 77,
+      "shares": 6
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-11-18",
+      "reads": 113,
+      "shares": 10
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-11-17",
+      "reads": 38,
+      "shares": 11
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-11-17",
+      "reads": 96,
+      "shares": 14
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-11-17",
+      "reads": 58,
+      "shares": 8
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-11-17",
+      "reads": 62,
+      "shares": 16
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-11-17",
+      "reads": 87,
+      "shares": 10
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-11-16",
+      "reads": 76,
+      "shares": 7
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-11-16",
+      "reads": 37,
+      "shares": 15
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-11-16",
+      "reads": 64,
+      "shares": 11
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-11-16",
+      "reads": 72,
+      "shares": 13
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-11-16",
+      "reads": 71,
+      "shares": 4
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-11-15",
+      "reads": 103,
+      "shares": 16
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-11-15",
+      "reads": 67,
+      "shares": 7
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-11-15",
+      "reads": 73,
+      "shares": 5
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-11-15",
+      "reads": 105,
+      "shares": 10
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-11-15",
+      "reads": 33,
+      "shares": 16
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-11-14",
+      "reads": 59,
+      "shares": 7
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-11-14",
+      "reads": 109,
+      "shares": 7
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-11-14",
+      "reads": 20,
+      "shares": 3
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-11-14",
+      "reads": 92,
+      "shares": 12
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-11-14",
+      "reads": 50,
+      "shares": 14
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-11-13",
+      "reads": 73,
+      "shares": 7
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-11-13",
+      "reads": 78,
+      "shares": 6
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-11-13",
+      "reads": 44,
+      "shares": 11
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-11-13",
+      "reads": 98,
+      "shares": 11
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-11-13",
+      "reads": 42,
+      "shares": 6
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-11-12",
+      "reads": 42,
+      "shares": 3
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-11-12",
+      "reads": 63,
+      "shares": 10
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-11-12",
+      "reads": 69,
+      "shares": 7
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-11-12",
+      "reads": 110,
+      "shares": 2
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-11-12",
+      "reads": 77,
+      "shares": 3
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-11-11",
+      "reads": 69,
+      "shares": 13
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-11-11",
+      "reads": 34,
+      "shares": 8
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-11-11",
+      "reads": 84,
+      "shares": 3
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-11-11",
+      "reads": 57,
+      "shares": 11
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-11-11",
+      "reads": 110,
+      "shares": 12
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-11-10",
+      "reads": 63,
+      "shares": 14
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-11-10",
+      "reads": 105,
+      "shares": 13
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-11-10",
+      "reads": 53,
+      "shares": 14
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-11-10",
+      "reads": 44,
+      "shares": 14
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-11-10",
+      "reads": 82,
+      "shares": 12
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-11-09",
+      "reads": 21,
+      "shares": 8
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-11-09",
+      "reads": 115,
+      "shares": 11
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-11-09",
+      "reads": 44,
+      "shares": 13
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-11-09",
+      "reads": 109,
+      "shares": 5
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-11-09",
+      "reads": 83,
+      "shares": 5
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-11-08",
+      "reads": 43,
+      "shares": 12
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-11-08",
+      "reads": 87,
+      "shares": 15
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-11-08",
+      "reads": 62,
+      "shares": 2
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-11-08",
+      "reads": 30,
+      "shares": 8
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-11-08",
+      "reads": 24,
+      "shares": 14
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-11-07",
+      "reads": 28,
+      "shares": 13
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-11-07",
+      "reads": 87,
+      "shares": 5
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-11-07",
+      "reads": 82,
+      "shares": 14
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-11-07",
+      "reads": 99,
+      "shares": 14
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-11-07",
+      "reads": 20,
+      "shares": 9
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-11-06",
+      "reads": 58,
+      "shares": 7
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-11-06",
+      "reads": 117,
+      "shares": 2
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-11-06",
+      "reads": 119,
+      "shares": 12
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-11-06",
+      "reads": 82,
+      "shares": 12
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-11-06",
+      "reads": 28,
+      "shares": 10
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-11-05",
+      "reads": 33,
+      "shares": 9
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-11-05",
+      "reads": 118,
+      "shares": 4
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-11-05",
+      "reads": 83,
+      "shares": 3
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-11-05",
+      "reads": 110,
+      "shares": 2
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-11-05",
+      "reads": 62,
+      "shares": 10
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-11-04",
+      "reads": 70,
+      "shares": 13
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-11-04",
+      "reads": 28,
+      "shares": 10
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-11-04",
+      "reads": 23,
+      "shares": 16
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-11-04",
+      "reads": 65,
+      "shares": 3
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-11-04",
+      "reads": 21,
+      "shares": 8
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-11-03",
+      "reads": 95,
+      "shares": 8
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-11-03",
+      "reads": 115,
+      "shares": 14
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-11-03",
+      "reads": 55,
+      "shares": 2
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-11-03",
+      "reads": 102,
+      "shares": 9
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-11-03",
+      "reads": 86,
+      "shares": 6
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-11-02",
+      "reads": 102,
+      "shares": 3
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-11-02",
+      "reads": 46,
+      "shares": 2
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-11-02",
+      "reads": 96,
+      "shares": 15
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-11-02",
+      "reads": 45,
+      "shares": 4
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-11-02",
+      "reads": 119,
+      "shares": 9
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-11-01",
+      "reads": 119,
+      "shares": 3
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-11-01",
+      "reads": 70,
+      "shares": 2
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-11-01",
+      "reads": 35,
+      "shares": 12
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-11-01",
+      "reads": 119,
+      "shares": 9
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-11-01",
+      "reads": 27,
+      "shares": 5
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-10-31",
+      "reads": 37,
+      "shares": 11
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-10-31",
+      "reads": 62,
+      "shares": 8
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-10-31",
+      "reads": 94,
+      "shares": 16
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-10-31",
+      "reads": 21,
+      "shares": 15
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-10-31",
+      "reads": 43,
+      "shares": 4
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-10-30",
+      "reads": 68,
+      "shares": 16
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-10-30",
+      "reads": 33,
+      "shares": 12
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-10-30",
+      "reads": 90,
+      "shares": 16
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-10-30",
+      "reads": 100,
+      "shares": 9
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-10-30",
+      "reads": 77,
+      "shares": 16
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-10-29",
+      "reads": 63,
+      "shares": 6
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-10-29",
+      "reads": 113,
+      "shares": 16
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-10-29",
+      "reads": 83,
+      "shares": 2
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-10-29",
+      "reads": 105,
+      "shares": 6
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-10-29",
+      "reads": 97,
+      "shares": 13
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-10-28",
+      "reads": 98,
+      "shares": 5
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-10-28",
+      "reads": 113,
+      "shares": 3
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-10-28",
+      "reads": 82,
+      "shares": 10
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-10-28",
+      "reads": 21,
+      "shares": 14
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-10-28",
+      "reads": 75,
+      "shares": 6
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-10-27",
+      "reads": 41,
+      "shares": 14
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-10-27",
+      "reads": 33,
+      "shares": 15
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-10-27",
+      "reads": 21,
+      "shares": 14
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-10-27",
+      "reads": 94,
+      "shares": 7
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-10-27",
+      "reads": 22,
+      "shares": 7
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-10-26",
+      "reads": 58,
+      "shares": 9
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-10-26",
+      "reads": 94,
+      "shares": 5
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-10-26",
+      "reads": 72,
+      "shares": 3
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-10-26",
+      "reads": 42,
+      "shares": 15
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-10-26",
+      "reads": 76,
+      "shares": 2
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-10-25",
+      "reads": 37,
+      "shares": 10
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-10-25",
+      "reads": 81,
+      "shares": 10
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-10-25",
+      "reads": 110,
+      "shares": 3
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-10-25",
+      "reads": 108,
+      "shares": 8
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-10-25",
+      "reads": 96,
+      "shares": 8
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-10-24",
+      "reads": 58,
+      "shares": 3
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-10-24",
+      "reads": 72,
+      "shares": 7
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-10-24",
+      "reads": 35,
+      "shares": 3
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-10-24",
+      "reads": 47,
+      "shares": 3
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-10-24",
+      "reads": 97,
+      "shares": 13
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-10-23",
+      "reads": 48,
+      "shares": 16
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-10-23",
+      "reads": 49,
+      "shares": 8
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-10-23",
+      "reads": 82,
+      "shares": 2
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-10-23",
+      "reads": 66,
+      "shares": 3
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-10-23",
+      "reads": 84,
+      "shares": 2
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-10-22",
+      "reads": 85,
+      "shares": 16
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-10-22",
+      "reads": 107,
+      "shares": 4
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-10-22",
+      "reads": 36,
+      "shares": 4
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-10-22",
+      "reads": 33,
+      "shares": 13
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-10-22",
+      "reads": 33,
+      "shares": 4
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-10-21",
+      "reads": 117,
+      "shares": 15
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-10-21",
+      "reads": 22,
+      "shares": 9
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-10-21",
+      "reads": 90,
+      "shares": 13
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-10-21",
+      "reads": 58,
+      "shares": 10
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-10-21",
+      "reads": 66,
+      "shares": 11
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-10-20",
+      "reads": 108,
+      "shares": 3
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-10-20",
+      "reads": 36,
+      "shares": 3
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-10-20",
+      "reads": 65,
+      "shares": 10
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-10-20",
+      "reads": 77,
+      "shares": 12
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-10-20",
+      "reads": 50,
+      "shares": 11
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-10-19",
+      "reads": 44,
+      "shares": 14
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-10-19",
+      "reads": 58,
+      "shares": 5
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-10-19",
+      "reads": 56,
+      "shares": 13
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-10-19",
+      "reads": 98,
+      "shares": 8
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-10-19",
+      "reads": 106,
+      "shares": 13
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-10-18",
+      "reads": 25,
+      "shares": 4
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-10-18",
+      "reads": 106,
+      "shares": 6
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-10-18",
+      "reads": 47,
+      "shares": 3
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-10-18",
+      "reads": 83,
+      "shares": 3
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-10-18",
+      "reads": 40,
+      "shares": 13
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-10-17",
+      "reads": 83,
+      "shares": 5
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-10-17",
+      "reads": 96,
+      "shares": 11
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-10-17",
+      "reads": 75,
+      "shares": 10
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-10-17",
+      "reads": 86,
+      "shares": 8
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-10-17",
+      "reads": 113,
+      "shares": 5
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-10-16",
+      "reads": 63,
+      "shares": 8
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-10-16",
+      "reads": 69,
+      "shares": 14
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-10-16",
+      "reads": 110,
+      "shares": 8
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-10-16",
+      "reads": 94,
+      "shares": 14
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-10-16",
+      "reads": 37,
+      "shares": 4
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-10-15",
+      "reads": 70,
+      "shares": 2
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-10-15",
+      "reads": 104,
+      "shares": 16
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-10-15",
+      "reads": 115,
+      "shares": 9
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-10-15",
+      "reads": 116,
+      "shares": 13
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-10-15",
+      "reads": 57,
+      "shares": 15
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-10-14",
+      "reads": 80,
+      "shares": 16
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-10-14",
+      "reads": 40,
+      "shares": 4
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-10-14",
+      "reads": 53,
+      "shares": 8
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-10-14",
+      "reads": 68,
+      "shares": 15
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-10-14",
+      "reads": 116,
+      "shares": 3
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-10-13",
+      "reads": 111,
+      "shares": 15
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-10-13",
+      "reads": 47,
+      "shares": 9
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-10-13",
+      "reads": 39,
+      "shares": 9
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-10-13",
+      "reads": 57,
+      "shares": 7
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-10-13",
+      "reads": 45,
+      "shares": 4
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-10-12",
+      "reads": 92,
+      "shares": 15
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-10-12",
+      "reads": 66,
+      "shares": 2
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-10-12",
+      "reads": 111,
+      "shares": 10
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-10-12",
+      "reads": 115,
+      "shares": 14
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-10-12",
+      "reads": 52,
+      "shares": 2
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-10-11",
+      "reads": 45,
+      "shares": 14
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-10-11",
+      "reads": 73,
+      "shares": 4
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-10-11",
+      "reads": 88,
+      "shares": 7
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-10-11",
+      "reads": 95,
+      "shares": 13
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-10-11",
+      "reads": 66,
+      "shares": 8
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-10-10",
+      "reads": 37,
+      "shares": 11
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-10-10",
+      "reads": 109,
+      "shares": 16
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-10-10",
+      "reads": 80,
+      "shares": 11
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-10-10",
+      "reads": 33,
+      "shares": 12
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-10-10",
+      "reads": 22,
+      "shares": 13
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-10-09",
+      "reads": 44,
+      "shares": 7
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-10-09",
+      "reads": 25,
+      "shares": 11
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-10-09",
+      "reads": 40,
+      "shares": 16
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-10-09",
+      "reads": 90,
+      "shares": 11
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-10-09",
+      "reads": 84,
+      "shares": 3
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-10-08",
+      "reads": 20,
+      "shares": 2
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-10-08",
+      "reads": 48,
+      "shares": 8
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-10-08",
+      "reads": 27,
+      "shares": 10
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-10-08",
+      "reads": 75,
+      "shares": 3
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-10-08",
+      "reads": 76,
+      "shares": 13
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-10-07",
+      "reads": 63,
+      "shares": 15
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-10-07",
+      "reads": 44,
+      "shares": 16
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-10-07",
+      "reads": 30,
+      "shares": 2
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-10-07",
+      "reads": 43,
+      "shares": 7
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-10-07",
+      "reads": 116,
+      "shares": 13
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-10-06",
+      "reads": 94,
+      "shares": 7
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-10-06",
+      "reads": 65,
+      "shares": 10
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-10-06",
+      "reads": 21,
+      "shares": 4
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-10-06",
+      "reads": 106,
+      "shares": 16
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-10-06",
+      "reads": 55,
+      "shares": 16
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-10-05",
+      "reads": 81,
+      "shares": 15
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-10-05",
+      "reads": 45,
+      "shares": 10
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-10-05",
+      "reads": 71,
+      "shares": 2
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-10-05",
+      "reads": 65,
+      "shares": 11
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-10-05",
+      "reads": 37,
+      "shares": 9
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-10-04",
+      "reads": 49,
+      "shares": 15
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-10-04",
+      "reads": 44,
+      "shares": 2
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-10-04",
+      "reads": 90,
+      "shares": 2
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-10-04",
+      "reads": 29,
+      "shares": 10
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-10-04",
+      "reads": 119,
+      "shares": 5
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-10-03",
+      "reads": 69,
+      "shares": 11
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-10-03",
+      "reads": 23,
+      "shares": 13
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-10-03",
+      "reads": 50,
+      "shares": 7
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-10-03",
+      "reads": 41,
+      "shares": 6
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-10-03",
+      "reads": 99,
+      "shares": 15
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-10-02",
+      "reads": 57,
+      "shares": 6
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-10-02",
+      "reads": 86,
+      "shares": 12
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-10-02",
+      "reads": 24,
+      "shares": 12
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-10-02",
+      "reads": 86,
+      "shares": 8
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-10-02",
+      "reads": 32,
+      "shares": 16
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-10-01",
+      "reads": 88,
+      "shares": 6
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-10-01",
+      "reads": 64,
+      "shares": 5
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-10-01",
+      "reads": 48,
+      "shares": 3
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-10-01",
+      "reads": 21,
+      "shares": 3
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-10-01",
+      "reads": 111,
+      "shares": 2
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-09-30",
+      "reads": 97,
+      "shares": 11
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-09-30",
+      "reads": 65,
+      "shares": 16
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-09-30",
+      "reads": 116,
+      "shares": 10
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-09-30",
+      "reads": 76,
+      "shares": 2
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-09-30",
+      "reads": 39,
+      "shares": 13
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-09-29",
+      "reads": 50,
+      "shares": 8
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-09-29",
+      "reads": 119,
+      "shares": 9
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-09-29",
+      "reads": 59,
+      "shares": 16
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-09-29",
+      "reads": 110,
+      "shares": 14
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-09-29",
+      "reads": 54,
+      "shares": 14
+    },
+    {
+      "slug": "the-best-blinds-in-george",
+      "date": "2025-09-28",
+      "reads": 57,
+      "shares": 14
+    },
+    {
+      "slug": "top-car-hire-options-in-george",
+      "date": "2025-09-28",
+      "reads": 36,
+      "shares": 3
+    },
+    {
+      "slug": "garden-route-dental-guide",
+      "date": "2025-09-28",
+      "reads": 24,
+      "shares": 7
+    },
+    {
+      "slug": "essential-pharmacies-in-george",
+      "date": "2025-09-28",
+      "reads": 72,
+      "shares": 16
+    },
+    {
+      "slug": "luxury-hotels-knysna",
+      "date": "2025-09-28",
+      "reads": 33,
+      "shares": 7
+    }
+  ]
+}
