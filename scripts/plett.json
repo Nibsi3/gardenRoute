@@ -1,0 +1,139 @@
+{
+  "plett": {
+    "Accountants": [
+      {"name": "Moore Plettenberg Bay", "url": "https://www.google.com/maps/search/?api=1&query=Moore+Plettenberg+Bay"},
+      {"name": "Mazars Plettenberg Bay", "url": "https://www.google.com/maps/search/?api=1&query=Mazars+Plettenberg+Bay"},
+      {"name": "Plett Accountants", "url": "https://www.google.com/maps/search/?api=1&query=Plett+Accountants"}
+    ],
+    "Car Hire": [
+      {"name": "Avis Car Rental Plettenberg Bay", "url": "https://www.google.com/maps/search/?api=1&query=Avis+Car+Rental+Plettenberg+Bay"},
+      {"name": "Hertz Car Rental Plettenberg Bay", "url": "https://www.google.com/maps/search/?api=1&query=Hertz+Car+Rental+Plettenberg+Bay"},
+      {"name": "CemAir Car Hire", "url": "https://www.google.com/maps/search/?api=1&query=CemAir+Plettenberg+Bay"}
+    ],
+    "Cleaning": [
+      {"name": "Plett Clean", "url": "https://www.google.com/maps/search/?api=1&query=Plett+Clean"},
+      {"name": "The Cleaning Lady", "url": "https://www.google.com/maps/search/?api=1&query=The+Cleaning+Lady+Plettenberg+Bay"},
+      {"name": "Sparkling Star Cleaning", "url": "https://www.google.com/maps/search/?api=1&query=Sparkling+Star+Cleaning+Plettenberg+Bay"}
+    ],
+    "Coffee": [
+      {"name": "Le Fournil de Plett", "url": "https://www.google.com/maps/search/?api=1&query=Le+Fournil+de+Plett"},
+      {"name": "Doubleshot Coffee", "url": "https://www.google.com/maps/search/?api=1&query=Doubleshot+Coffee+Plettenberg+Bay"},
+      {"name": "Clare's Cakes & Coffee", "url": "https://www.google.com/maps/search/?api=1&query=Clares+Cakes+and+Coffee"}
+    ],
+    "Eat": [
+      {"name": "Enrico Ristorante", "url": "https://www.google.com/maps/search/?api=1&query=Enrico+Ristorante+Plettenberg+Bay"},
+      {"name": "The Table Restaurant", "url": "https://www.google.com/maps/search/?api=1&query=The+Table+Restaurant+Plettenberg+Bay"},
+      {"name": "Emily's Restaurant", "url": "https://www.google.com/maps/search/?api=1&query=Emily's+Restaurant+Plettenberg+Bay"}
+    ],
+    "Electricians": [
+      {"name": "Plett Electrical", "url": "https://www.google.com/maps/search/?api=1&query=Plett+Electrical"},
+      {"name": "Seabreeze Electrical", "url": "https://www.google.com/maps/search/?api=1&query=Seabreeze+Electrical+Plettenberg+Bay"},
+      {"name": "JCM Electrical", "url": "https://www.google.com/maps/search/?api=1&query=JCM+Electrical+Plettenberg+Bay"}
+    ],
+    "Garden": [
+      {"name": "Coastal Gardens", "url": "https://www.google.com/maps/search/?api=1&query=Coastal+Gardens+Plettenberg+Bay"},
+      {"name": "Green Earth Irrigation & Landscapes", "url": "https://www.google.com/maps/search/?api=1&query=Green+Earth+Irrigation+and+Landscapes+Plettenberg+Bay"},
+      {"name": "Lee Roy's Garden Service", "url": "https://www.google.com/maps/search/?api=1&query=Lee+Roys+Garden+Service+Plettenberg+Bay"}
+    ],
+    "Healthcare": [
+      {"name": "Mediclinic Plettenberg Bay", "url": "https://www.google.com/maps/search/?api=1&query=Mediclinic+Plettenberg+Bay"},
+      {"name": "Bitou Medical Solutions", "url": "https://www.google.com/maps/search/?api=1&query=Bitou+Medical+Solutions"},
+      {"name": "Plett Medical Centre", "url": "https://www.google.com/maps/search/?api=1&query=Plett+Medical+Centre"}
+    ],
+    "IT Support": [
+      {"name": "First Technology Plett", "url": "https://www.google.com/maps/search/?api=1&query=First+Technology+Plettenberg+Bay"},
+      {"name": "The Computer Shop Plett", "url": "https://www.google.com/maps/search/?api=1&query=The+Computer+Shop+Plettenberg+Bay"},
+      {"name": "Plett IT", "url": "https://www.google.com/maps/search/?api=1&query=Plett+IT"}
+    ],
+    "Internet": [
+      {"name": "Herotel Plett", "url": "https://www.google.com/maps/search/?api=1&query=Herotel+Plett"},
+      {"name": "Vox Telecom (Service)", "url": "https://www.google.com/maps/search/?api=1&query=Vox+Telecom+Plettenberg+Bay"},
+      {"name": "RSAWEB (Service)", "url": "https://www.google.com/maps/search/?api=1&query=RSAWEB+Plettenberg+Bay"}
+    ],
+    "Legal": [
+      {"name": "Hutchinson, Du Plessis, Robin & Stoloff", "url": "https://www.google.com/maps/search/?api=1&query=Hutchinson+Du+Plessis+Robin+and+Stoloff"},
+      {"name": "Mosdell Pama & Cox Plett", "url": "https://www.google.com/maps/search/?api=1&query=Mosdell+Pama+and+Cox+Plettenberg+Bay"},
+      {"name": "Millers Attorneys (Knysna)", "url": "https://www.google.com/maps/search/?api=1&query=Millers+Attorneys+Knysna"}
+    ],
+    "Locksmiths": [
+      {"name": "Plett Locksmiths", "url": "https://www.google.com/maps/search/?api=1&query=Plett+Locksmiths"},
+      {"name": "CX Locksmiths (Serves Plett)", "url": "https://www.google.com/maps/search/?api=1&query=CX+Locksmiths+Knysna"},
+      {"name": "The Lock Doctor", "url": "https://www.google.com/maps/search/?api=1&query=The+Lock+Doctor+Plettenberg+Bay"}
+    ],
+    "Moving": [
+      {"name": "Plett Self Storage", "url": "https://www.google.com/maps/search/?api=1&query=Plett+Self+Storage"},
+      {"name": "Biddulphs (Serves Plett)", "url": "https://www.google.com/maps/search/?api=1&query=Biddulphs+International"},
+      {"name": "Knysna Removals (Serves Plett)", "url": "https://www.google.com/maps/search/?api=1&query=Knysna+Removals"}
+    ],
+    "Painters": [
+      {"name": "Plett Painters", "url": "https://www.google.com/maps/search/?api=1&query=Plett+Painters"},
+      {"name": "Coastal Painters", "url": "https://www.google.com/maps/search/?api=1&query=Coastal+Painters+Plettenberg+Bay"},
+      {"name": "Paint & Decor", "url": "https://www.google.com/maps/search/?api=1&query=Paint+and+Decor+Plettenberg+Bay"}
+    ],
+    "Pest Control": [
+      {"name": "Verminator Pest Control", "url": "https://www.google.com/maps/search/?api=1&query=Verminator+Pest+Control+Plettenberg+Bay"},
+      {"name": "Pest Control Excellence", "url": "https://www.google.com/maps/search/?api=1&query=Pest+Control+Excellence+Plettenberg+Bay"},
+      {"name": "Rentokil (Serves Plett)", "url": "https://www.google.com/maps/search/?api=1&query=Rentokil+Initial+Knysna"}
+    ],
+    "Pharmacy": [
+      {"name": "Clicks Plett Mall", "url": "https://www.google.com/maps/search/?api=1&query=Clicks+Pharmacy+Plettenberg+Bay+Mall"},
+      {"name": "Dis-Chem Plett", "url": "https://www.google.com/maps/search/?api=1&query=Dis-Chem+Pharmacy+Plettenberg+Bay"},
+      {"name": "Plett Pharmacy", "url": "https://www.google.com/maps/search/?api=1&query=Plett+Pharmacy"}
+    ],
+    "Plumbers": [
+      {"name": "Plett Plumbing", "url": "https://www.google.com/maps/search/?api=1&query=Plett+Plumbing"},
+      {"name": "The Drain Surgeon (Serves Plett)", "url": "https://www.google.com/maps/search/?api=1&query=The+Drain+Surgeon+Knysna"},
+      {"name": "Seabreeze Plumbing", "url": "https://www.google.com/maps/search/?api=1&query=Seabreeze+Plumbing+Plettenberg+Bay"}
+    ],
+    "Pool": [
+      {"name": "Plett Pool Services", "url": "https://www.google.com/maps/search/?api=1&query=Plett+Pool+Services"},
+      {"name": "The Pool Doctor Plett", "url": "https://www.google.com/maps/search/?api=1&query=The+Pool+Doctor+Plettenberg+Bay"},
+      {"name": "Pool Care", "url": "https://www.google.com/maps/search/?api=1&query=Pool+Care+Plettenberg+Bay"}
+    ],
+    "Real Estate": [
+      {"name": "Pam Golding Properties Plett", "url": "https://www.google.com/maps/search/?api=1&query=Pam+Golding+Properties+Plettenberg+Bay"},
+      {"name": "Seeff Plettenberg Bay", "url": "https://www.google.com/maps/search/?api=1&query=Seeff+Plettenberg+Bay"},
+      {"name": "Chas Everitt Plett", "url": "https://www.google.com/maps/search/?api=1&query=Chas+Everitt+Plettenberg+Bay"}
+    ],
+    "Roofing": [
+      {"name": "Plett Roofing", "url": "https://www.google.com/maps/search/?api=1&query=Plett+Roofing"},
+      {"name": "Coastal Roofing", "url": "https://www.google.com/maps/search/?api=1&query=Coastal+Roofing+Plettenberg+Bay"},
+      {"name": "Bitou Roofing", "url": "https://www.google.com/maps/search/?api=1&query=Bitou+Roofing"}
+    ],
+    "Security": [
+      {"name": "Fidelity ADT Plett", "url": "https://www.google.com/maps/search/?api=1&query=Fidelity+ADT+Plettenberg+Bay"},
+      {"name": "Prime Security Plett", "url": "https://www.google.com/maps/search/?api=1&query=Prime+Security+Plettenberg+Bay"},
+      {"name": "Plett Security", "url": "https://www.google.com/maps/search/?api=1&query=Plett+Security"}
+    ],
+    "Solar": [
+      {"name": "ecoSunergy", "url": "https://www.google.com/maps/search/?api=1&query=ecoSunergy+Plettenberg+Bay"},
+      {"name": "Energy Engineering", "url": "https://www.google.com/maps/search/?api=1&query=Energy+Engineering+Plettenberg+Bay"},
+      {"name": "Deltec Energy Solutions", "url": "https://www.google.com/maps/search/?api=1&query=Deltec+Energy+Solutions+Plettenberg+Bay"}
+    ],
+    "Stay": [
+      {"name": "The Plettenberg Hotel", "url": "https://www.google.com/maps/search/?api=1&query=The+Plettenberg+Hotel"},
+      {"name": "Hunter's Country House", "url": "https://www.google.com/maps/search/?api=1&query=Hunter's+Country+House"},
+      {"name": "Tsala Treetop Lodge", "url": "https://www.google.com/maps/search/?api=1&query=Tsala+Treetop+Lodge"}
+    ],
+    "Towing": [
+      {"name": "Plett Towing", "url": "https://www.google.com/maps/search/?api=1&query=Plett+Towing"},
+      {"name": "Garden Route Towing (Serves Plett)", "url": "https://www.google.com/maps/search/?api=1&query=Garden+Route+Towing"},
+      {"name": "First Help", "url": "https://www.google.com/maps/search/?api=1&query=First+Help+Towing"}
+    ],
+    "Vehicle Repairs": [
+      {"name": "Bosch Car Service Plett", "url": "https://www.google.com/maps/search/?api=1&query=Bosch+Car+Service+Plettenberg+Bay"},
+      {"name": "Plett Auto Works", "url": "https://www.google.com/maps/search/?api=1&query=Plett+Auto+Works"},
+      {"name": "Robberg Motors", "url": "https://www.google.com/maps/search/?api=1&query=Robberg+Motors"}
+    ],
+    "Vets": [
+      {"name": "Plettenberg Bay Veterinary Clinic", "url": "https://www.google.com/maps/search/?api=1&query=Plettenberg+Bay+Veterinary+Clinic"},
+      {"name": "Plett Animal Welfare", "url": "https://www.google.com/maps/search/?api=1&query=Plettenberg+Bay+Animal+Welfare+Service"},
+      {"name": "Robberg Vet", "url": "https://www.google.com/maps/search/?api=1&query=Robberg+Veterinary+Clinic"}
+    ],
+    "Waste": [
+      {"name": "Masiqhame Trading", "url": "https://www.google.com/maps/search/?api=1&query=Masiqhame+Trading+Plettenberg+Bay"},
+      {"name": "Bitou Waste Management", "url": "https://www.google.com/maps/search/?api=1&query=Bitou+Municipality+Waste+Management"},
+      {"name": "Dial A Drum Plett", "url": "https://www.google.com/maps/search/?api=1&query=Dial+A+Drum+Plettenberg+Bay"}
+    ]
+  }
+}

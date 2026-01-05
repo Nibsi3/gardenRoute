@@ -1,0 +1,139 @@
+{
+  "george": {
+    "Accountants": [
+      {"name": "Moore Southern Cape", "url": "https://www.google.com/maps/search/?api=1&query=Moore+Southern+Cape+George"},
+      {"name": "Mazars George", "url": "https://www.google.com/maps/search/?api=1&query=Mazars+George"},
+      {"name": "SDK Chartered Accountants", "url": "https://www.google.com/maps/search/?api=1&query=SDK+Chartered+Accountants+George"}
+    ],
+    "Car Hire": [
+      {"name": "Avis Car Rental George Airport", "url": "https://www.google.com/maps/search/?api=1&query=Avis+Car+Rental+George+Airport"},
+      {"name": "Hertz Car Rental George Airport", "url": "https://www.google.com/maps/search/?api=1&query=Hertz+Car+Rental+George+Airport"},
+      {"name": "Garden Route Shuttles", "url": "https://www.google.com/maps/search/?api=1&query=Garden+Route+Shuttle+Services+George"}
+    ],
+    "Cleaning": [
+      {"name": "Starlite Cleaning Services", "url": "https://www.google.com/maps/search/?api=1&query=Starlite+Cleaning+Services+George"},
+      {"name": "Profound Cleaning & Hygiene", "url": "https://www.google.com/maps/search/?api=1&query=Profound+Cleaning+and+Hygiene+George"},
+      {"name": "Spotless Cleaning Services", "url": "https://www.google.com/maps/search/?api=1&query=Spotless+Cleaning+Services+George"}
+    ],
+    "Coffee": [
+      {"name": "The Foundry (Root Coffee)", "url": "https://www.google.com/maps/search/?api=1&query=Root+Coffee+George"},
+      {"name": "Bootlegger Coffee Company", "url": "https://www.google.com/maps/search/?api=1&query=Bootlegger+Coffee+Company+George"},
+      {"name": "Paulet Espresso", "url": "https://www.google.com/maps/search/?api=1&query=Paulet+Espresso+George"}
+    ],
+    "Eat": [
+      {"name": "The Fat Fish George", "url": "https://www.google.com/maps/search/?api=1&query=The+Fat+Fish+George"},
+      {"name": "The Hussar Grill George", "url": "https://www.google.com/maps/search/?api=1&query=The+Hussar+Grill+George"},
+      {"name": "La Capannina", "url": "https://www.google.com/maps/search/?api=1&query=La+Capannina+George"}
+    ],
+    "Electricians": [
+      {"name": "Ronald George Electrical", "url": "https://www.google.com/maps/search/?api=1&query=Ronald+George+Electrical"},
+      {"name": "Terayne Electrical", "url": "https://www.google.com/maps/search/?api=1&query=Terayne+Electrical+Maintenance+George"},
+      {"name": "Power Lec Electrical", "url": "https://www.google.com/maps/search/?api=1&query=Power+Lec+Electrical+George"}
+    ],
+    "Garden": [
+      {"name": "Platinum Garden Services", "url": "https://www.google.com/maps/search/?api=1&query=Platinum+Garden+Services+George"},
+      {"name": "Beleaf Landscape Design", "url": "https://www.google.com/maps/search/?api=1&query=Beleaf+Landscape+Design+George"},
+      {"name": "Green Projects", "url": "https://www.google.com/maps/search/?api=1&query=Green+Projects+Gardening+Services+George"}
+    ],
+    "Healthcare": [
+      {"name": "Mediclinic George", "url": "https://www.google.com/maps/search/?api=1&query=Mediclinic+George"},
+      {"name": "Mediclinic Geneva", "url": "https://www.google.com/maps/search/?api=1&query=Mediclinic+Geneva"},
+      {"name": "George Surgical Centre", "url": "https://www.google.com/maps/search/?api=1&query=George+Surgical+Centre"}
+    ],
+    "IT Support": [
+      {"name": "First Technology George", "url": "https://www.google.com/maps/search/?api=1&query=First+Technology+George"},
+      {"name": "ITec George", "url": "https://www.google.com/maps/search/?api=1&query=ITec+George"},
+      {"name": "G-Tech Office Solutions", "url": "https://www.google.com/maps/search/?api=1&query=G-Tech+Office+Solutions+George"}
+    ],
+    "Internet": [
+      {"name": "Vox Telecom George", "url": "https://www.google.com/maps/search/?api=1&query=Vox+Telecom+George"},
+      {"name": "Herotel George", "url": "https://www.google.com/maps/search/?api=1&query=Herotel+George"},
+      {"name": "Cloud Connect", "url": "https://www.google.com/maps/search/?api=1&query=Cloud+Connect+George"}
+    ],
+    "Legal": [
+      {"name": "Van der Spuy & Partners", "url": "https://www.google.com/maps/search/?api=1&query=Van+der+Spuy+and+Partners+George"},
+      {"name": "Millers Attorneys", "url": "https://www.google.com/maps/search/?api=1&query=Millers+Attorneys+George"},
+      {"name": "A Chimes Van Wyk", "url": "https://www.google.com/maps/search/?api=1&query=A+Chimes+Van+Wyk+Inc+George"}
+    ],
+    "Locksmiths": [
+      {"name": "George Locksmiths", "url": "https://www.google.com/maps/search/?api=1&query=George+Locksmiths"},
+      {"name": "Garden Route Locksmiths", "url": "https://www.google.com/maps/search/?api=1&query=Garden+Route+Locksmiths+George"},
+      {"name": "Outeniqua Locksmiths", "url": "https://www.google.com/maps/search/?api=1&query=Outeniqua+Locksmiths+George"}
+    ],
+    "Moving": [
+      {"name": "Elliot Mobility George", "url": "https://www.google.com/maps/search/?api=1&query=Elliot+Mobility+George"},
+      {"name": "Biddulphs International", "url": "https://www.google.com/maps/search/?api=1&query=Biddulphs+International+George"},
+      {"name": "Eezi Move George", "url": "https://www.google.com/maps/search/?api=1&query=Eezi+Move+George"}
+    ],
+    "Painters": [
+      {"name": "Paint & Floor George", "url": "https://www.google.com/maps/search/?api=1&query=Paint+and+Floor+George"},
+      {"name": "AVO Paint Contractors", "url": "https://www.google.com/maps/search/?api=1&query=AVO+Paint+Contractors+George"},
+      {"name": "Top Notch Paint Pros", "url": "https://www.google.com/maps/search/?api=1&query=Top+Notch+Paint+Pros+George"}
+    ],
+    "Pest Control": [
+      {"name": "Rentokil Initial George", "url": "https://www.google.com/maps/search/?api=1&query=Rentokil+Initial+George"},
+      {"name": "Mostert Pest Control", "url": "https://www.google.com/maps/search/?api=1&query=Mostert+Pest+Control+George"},
+      {"name": "Pest Control Specialists", "url": "https://www.google.com/maps/search/?api=1&query=Pest+Control+Specialists+George"}
+    ],
+    "Pharmacy": [
+      {"name": "Dis-Chem Garden Route Mall", "url": "https://www.google.com/maps/search/?api=1&query=Dis-Chem+Pharmacy+Garden+Route+Mall"},
+      {"name": "Clicks Garden Route Mall", "url": "https://www.google.com/maps/search/?api=1&query=Clicks+Pharmacy+Garden+Route+Mall"},
+      {"name": "George Pharmacy", "url": "https://www.google.com/maps/search/?api=1&query=George+Pharmacy"}
+    ],
+    "Plumbers": [
+      {"name": "Outeniqua Plumbing", "url": "https://www.google.com/maps/search/?api=1&query=Outeniqua+Plumbing+George"},
+      {"name": "The Drain Surgeon George", "url": "https://www.google.com/maps/search/?api=1&query=The+Drain+Surgeon+George"},
+      {"name": "Heunis Plumbing", "url": "https://www.google.com/maps/search/?api=1&query=Heunis+Plumbing+and+Electrical+George"}
+    ],
+    "Pool": [
+      {"name": "Pool Assist George", "url": "https://www.google.com/maps/search/?api=1&query=Pool+Assist+George"},
+      {"name": "Perfect Pools George", "url": "https://www.google.com/maps/search/?api=1&query=Perfect+Pools+George"},
+      {"name": "Gentle Pools", "url": "https://www.google.com/maps/search/?api=1&query=Gentle+Pools+George"}
+    ],
+    "Real Estate": [
+      {"name": "Pam Golding Properties George", "url": "https://www.google.com/maps/search/?api=1&query=Pam+Golding+Properties+George"},
+      {"name": "Seeff George", "url": "https://www.google.com/maps/search/?api=1&query=Seeff+George"},
+      {"name": "Chas Everitt George", "url": "https://www.google.com/maps/search/?api=1&query=Chas+Everitt+George"}
+    ],
+    "Roofing": [
+      {"name": "GP Roofing", "url": "https://www.google.com/maps/search/?api=1&query=GP+Roofing+George"},
+      {"name": "Cape Cladding", "url": "https://www.google.com/maps/search/?api=1&query=Cape+Cladding+George"},
+      {"name": "Roof and Home", "url": "https://www.google.com/maps/search/?api=1&query=Roof+and+Home+George"}
+    ],
+    "Security": [
+      {"name": "Fidelity ADT George", "url": "https://www.google.com/maps/search/?api=1&query=Fidelity+ADT+George"},
+      {"name": "Garden Route Security", "url": "https://www.google.com/maps/search/?api=1&query=Garden+Route+Security+George"},
+      {"name": "Stallion Security", "url": "https://www.google.com/maps/search/?api=1&query=Stallion+Security+George"}
+    ],
+    "Solar": [
+      {"name": "Specialized Solar Systems", "url": "https://www.google.com/maps/search/?api=1&query=Specialized+Solar+Systems+George"},
+      {"name": "Power Hour Solar", "url": "https://www.google.com/maps/search/?api=1&query=Power+Hour+Solar+George"},
+      {"name": "Green Solar Enterprise", "url": "https://www.google.com/maps/search/?api=1&query=Green+Solar+Enterprise+George"}
+    ],
+    "Stay": [
+      {"name": "Protea Hotel King George", "url": "https://www.google.com/maps/search/?api=1&query=Protea+Hotel+by+Marriott+George+King+George"},
+      {"name": "Fancourt Hotel", "url": "https://www.google.com/maps/search/?api=1&query=Fancourt+Hotel+George"},
+      {"name": "The Hawthorn Boutique Hotel", "url": "https://www.google.com/maps/search/?api=1&query=The+Hawthorn+Boutique+Hotel+George"}
+    ],
+    "Towing": [
+      {"name": "Garden Route Towing", "url": "https://www.google.com/maps/search/?api=1&query=Garden+Route+Towing+George"},
+      {"name": "First Help Towing", "url": "https://www.google.com/maps/search/?api=1&query=First+Help+Towing+George"},
+      {"name": "George Towing Services", "url": "https://www.google.com/maps/search/?api=1&query=George+Towing+Services"}
+    ],
+    "Vehicle Repairs": [
+      {"name": "Bosch Car Service George", "url": "https://www.google.com/maps/search/?api=1&query=Bosch+Car+Service+George"},
+      {"name": "Car Service City George", "url": "https://www.google.com/maps/search/?api=1&query=Car+Service+City+George"},
+      {"name": "Anton's Auto Centre", "url": "https://www.google.com/maps/search/?api=1&query=Anton's+Auto+Centre+George"}
+    ],
+    "Vets": [
+      {"name": "George Animal Hospital", "url": "https://www.google.com/maps/search/?api=1&query=George+Animal+Hospital"},
+      {"name": "Garden Route Animal Hospital", "url": "https://www.google.com/maps/search/?api=1&query=Garden+Route+Animal+Hospital+George"},
+      {"name": "VetCare George", "url": "https://www.google.com/maps/search/?api=1&query=VetCare+George"}
+    ],
+    "Waste": [
+      {"name": "Henque Waste", "url": "https://www.google.com/maps/search/?api=1&query=Henque+Waste+George"},
+      {"name": "Ma'bone Waste Management", "url": "https://www.google.com/maps/search/?api=1&query=Ma'bone+Waste+Management+George"},
+      {"name": "Garden Route Waste Management", "url": "https://www.google.com/maps/search/?api=1&query=Garden+Route+Waste+Management+George"}
+    ]
+  }
+}

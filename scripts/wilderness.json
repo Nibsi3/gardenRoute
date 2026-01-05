@@ -1,0 +1,139 @@
+{
+  "wilderness": {
+    "Accountants": [
+      {"name": "Moore Southern Cape (Serves Wilderness)", "url": "https://www.google.com/maps/search/?api=1&query=Moore+Southern+Cape+George"},
+      {"name": "Mazars (Serves Wilderness)", "url": "https://www.google.com/maps/search/?api=1&query=Mazars+George"},
+      {"name": "SDK Chartered Accountants (Serves Wilderness)", "url": "https://www.google.com/maps/search/?api=1&query=SDK+Chartered+Accountants"}
+    ],
+    "Car Hire": [
+      {"name": "Garden Route Car Rental", "url": "https://www.google.com/maps/search/?api=1&query=Garden+Route+Car+Rental"},
+      {"name": "Avis (George Airport)", "url": "https://www.google.com/maps/search/?api=1&query=Avis+Car+Rental+George+Airport"},
+      {"name": "Hertz (George Airport)", "url": "https://www.google.com/maps/search/?api=1&query=Hertz+Car+Rental+George+Airport"}
+    ],
+    "Cleaning": [
+      {"name": "Spotless Cleaning (Serves Wilderness)", "url": "https://www.google.com/maps/search/?api=1&query=Spotless+Cleaning+Services+George"},
+      {"name": "Starlite Cleaning (Serves Wilderness)", "url": "https://www.google.com/maps/search/?api=1&query=Starlite+Cleaning+Services"},
+      {"name": "Profound Cleaning (Serves Wilderness)", "url": "https://www.google.com/maps/search/?api=1&query=Profound+Cleaning+and+Hygiene"}
+    ],
+    "Coffee": [
+      {"name": "The Commonage", "url": "https://www.google.com/maps/search/?api=1&query=The+Commonage+Wilderness"},
+      {"name": "Green Shed Coffee Roastery", "url": "https://www.google.com/maps/search/?api=1&query=The+Green+Shed+Coffee+Roastery+Wilderness"},
+      {"name": "Pause Coffee Roastery", "url": "https://www.google.com/maps/search/?api=1&query=Pause+Coffee+Roastery+Wilderness"}
+    ],
+    "Eat": [
+      {"name": "Salina's Beach Restaurant", "url": "https://www.google.com/maps/search/?api=1&query=Salinas+Beach+Restaurant+Wilderness"},
+      {"name": "The Girls on the Square", "url": "https://www.google.com/maps/search/?api=1&query=The+Girls+on+the+Square+Wilderness"},
+      {"name": "Serendipity Restaurant", "url": "https://www.google.com/maps/search/?api=1&query=Serendipity+Wilderness+Restaurant"}
+    ],
+    "Electricians": [
+      {"name": "Wilderness Electrical", "url": "https://www.google.com/maps/search/?api=1&query=Wilderness+Electrical+Services"},
+      {"name": "Ronald George Electrical (Serves Wilderness)", "url": "https://www.google.com/maps/search/?api=1&query=Ronald+George+Electrical"},
+      {"name": "Power Lec (Serves Wilderness)", "url": "https://www.google.com/maps/search/?api=1&query=Power+Lec+Electrical"}
+    ],
+    "Garden": [
+      {"name": "Garden Route Landscaping", "url": "https://www.google.com/maps/search/?api=1&query=Garden+Route+Landscaping+Wilderness"},
+      {"name": "Wilderness Garden Services", "url": "https://www.google.com/maps/search/?api=1&query=Wilderness+Garden+Services"},
+      {"name": "Beleaf Landscape (Serves Wilderness)", "url": "https://www.google.com/maps/search/?api=1&query=Beleaf+Landscape+Design"}
+    ],
+    "Healthcare": [
+      {"name": "Dr. J.P. Venter (Wilderness)", "url": "https://www.google.com/maps/search/?api=1&query=Dr+JP+Venter+Wilderness"},
+      {"name": "Mediclinic George (Nearest Hospital)", "url": "https://www.google.com/maps/search/?api=1&query=Mediclinic+George"},
+      {"name": "Bergville Retirement Clinic", "url": "https://www.google.com/maps/search/?api=1&query=Bergville+Retirement+Village+Clinic"}
+    ],
+    "IT Support": [
+      {"name": "First Technology (Serves Wilderness)", "url": "https://www.google.com/maps/search/?api=1&query=First+Technology+George"},
+      {"name": "G-Tech (Serves Wilderness)", "url": "https://www.google.com/maps/search/?api=1&query=G-Tech+Office+Solutions+George"},
+      {"name": "Computer Shop George (Serves Wilderness)", "url": "https://www.google.com/maps/search/?api=1&query=Computer+Shop+George"}
+    ],
+    "Internet": [
+      {"name": "Herotel (Coverage in Wilderness)", "url": "https://www.google.com/maps/search/?api=1&query=Herotel+George"},
+      {"name": "Vox Telecom (Coverage in Wilderness)", "url": "https://www.google.com/maps/search/?api=1&query=Vox+Telecom"},
+      {"name": "Cloud Connect", "url": "https://www.google.com/maps/search/?api=1&query=Cloud+Connect+George"}
+    ],
+    "Legal": [
+      {"name": "Millers Attorneys (Serves Wilderness)", "url": "https://www.google.com/maps/search/?api=1&query=Millers+Attorneys+George"},
+      {"name": "Van der Spuy (Serves Wilderness)", "url": "https://www.google.com/maps/search/?api=1&query=Van+der+Spuy+and+Partners"},
+      {"name": "Raubenheimers Attorneys", "url": "https://www.google.com/maps/search/?api=1&query=Raubenheimers+Attorneys+George"}
+    ],
+    "Locksmiths": [
+      {"name": "George Locksmiths (Serves Wilderness)", "url": "https://www.google.com/maps/search/?api=1&query=George+Locksmiths"},
+      {"name": "Garden Route Locksmiths", "url": "https://www.google.com/maps/search/?api=1&query=Garden+Route+Locksmiths"},
+      {"name": "Outeniqua Locksmiths", "url": "https://www.google.com/maps/search/?api=1&query=Outeniqua+Locksmiths"}
+    ],
+    "Moving": [
+      {"name": "Biddulphs (Serves Wilderness)", "url": "https://www.google.com/maps/search/?api=1&query=Biddulphs+International+George"},
+      {"name": "Elliot Mobility (Serves Wilderness)", "url": "https://www.google.com/maps/search/?api=1&query=Elliot+Mobility+George"},
+      {"name": "Eezi Move", "url": "https://www.google.com/maps/search/?api=1&query=Eezi+Move+George"}
+    ],
+    "Painters": [
+      {"name": "Paint & Floor (Serves Wilderness)", "url": "https://www.google.com/maps/search/?api=1&query=Paint+and+Floor+George"},
+      {"name": "AVO Paint (Serves Wilderness)", "url": "https://www.google.com/maps/search/?api=1&query=AVO+Paint+Contractors"},
+      {"name": "Top Notch Paint (Serves Wilderness)", "url": "https://www.google.com/maps/search/?api=1&query=Top+Notch+Paint+Pros"}
+    ],
+    "Pest Control": [
+      {"name": "Pest Control Wilderness", "url": "https://www.google.com/maps/search/?api=1&query=Pest+Control+Wilderness"},
+      {"name": "Mostert Pest Control (Serves Wilderness)", "url": "https://www.google.com/maps/search/?api=1&query=Mostert+Pest+Control+George"},
+      {"name": "Rentokil (Serves Wilderness)", "url": "https://www.google.com/maps/search/?api=1&query=Rentokil+Initial+George"}
+    ],
+    "Pharmacy": [
+      {"name": "Wilderness Pharmacy", "url": "https://www.google.com/maps/search/?api=1&query=Wilderness+Pharmacy"},
+      {"name": "Dis-Chem (Delivery)", "url": "https://www.google.com/maps/search/?api=1&query=Dis-Chem+Pharmacy+Garden+Route+Mall"},
+      {"name": "Clicks (Delivery)", "url": "https://www.google.com/maps/search/?api=1&query=Clicks+Pharmacy+Garden+Route+Mall"}
+    ],
+    "Plumbers": [
+      {"name": "Wilderness Plumbing Co", "url": "https://www.google.com/maps/search/?api=1&query=Wilderness+Plumbing+Co"},
+      {"name": "Eden Plumbers", "url": "https://www.google.com/maps/search/?api=1&query=Eden+Plumbers+George"},
+      {"name": "The Drain Surgeon", "url": "https://www.google.com/maps/search/?api=1&query=The+Drain+Surgeon+George"}
+    ],
+    "Pool": [
+      {"name": "Pool Assist (Serves Wilderness)", "url": "https://www.google.com/maps/search/?api=1&query=Pool+Assist+George"},
+      {"name": "Perfect Pools (Serves Wilderness)", "url": "https://www.google.com/maps/search/?api=1&query=Perfect+Pools+George"},
+      {"name": "Clear Blue Pools", "url": "https://www.google.com/maps/search/?api=1&query=Clear+Blue+Pools+George"}
+    ],
+    "Real Estate": [
+      {"name": "Pam Golding Properties Wilderness", "url": "https://www.google.com/maps/search/?api=1&query=Pam+Golding+Properties+Wilderness"},
+      {"name": "Seeff Wilderness", "url": "https://www.google.com/maps/search/?api=1&query=Seeff+Wilderness"},
+      {"name": "Lew Geffen Sotheby's Wilderness", "url": "https://www.google.com/maps/search/?api=1&query=Lew+Geffen+Sothebys+Wilderness"}
+    ],
+    "Roofing": [
+      {"name": "GP Roofing (Serves Wilderness)", "url": "https://www.google.com/maps/search/?api=1&query=GP+Roofing+George"},
+      {"name": "Cape Cladding", "url": "https://www.google.com/maps/search/?api=1&query=Cape+Cladding+George"},
+      {"name": "Roof and Home", "url": "https://www.google.com/maps/search/?api=1&query=Roof+and+Home+George"}
+    ],
+    "Security": [
+      {"name": "Fidelity ADT Wilderness", "url": "https://www.google.com/maps/search/?api=1&query=Fidelity+ADT+Wilderness"},
+      {"name": "Garden Route Security", "url": "https://www.google.com/maps/search/?api=1&query=Garden+Route+Security+George"},
+      {"name": "Wilderness Ratepayers (Security)", "url": "https://www.google.com/maps/search/?api=1&query=Wilderness+Ratepayers+Association"}
+    ],
+    "Solar": [
+      {"name": "Specialized Solar Systems", "url": "https://www.google.com/maps/search/?api=1&query=Specialized+Solar+Systems+George"},
+      {"name": "Green Solar Enterprise", "url": "https://www.google.com/maps/search/?api=1&query=Green+Solar+Enterprise+George"},
+      {"name": "Power Hour Solar", "url": "https://www.google.com/maps/search/?api=1&query=Power+Hour+Solar"}
+    ],
+    "Stay": [
+      {"name": "The Wilderness Hotel", "url": "https://www.google.com/maps/search/?api=1&query=The+Wilderness+Hotel"},
+      {"name": "Views Boutique Hotel & Spa", "url": "https://www.google.com/maps/search/?api=1&query=Views+Boutique+Hotel+and+Spa"},
+      {"name": "Moontide Guest Lodge", "url": "https://www.google.com/maps/search/?api=1&query=Moontide+Guest+Lodge"}
+    ],
+    "Towing": [
+      {"name": "Garden Route Towing", "url": "https://www.google.com/maps/search/?api=1&query=Garden+Route+Towing+George"},
+      {"name": "First Help Towing", "url": "https://www.google.com/maps/search/?api=1&query=First+Help+Towing"},
+      {"name": "George Towing", "url": "https://www.google.com/maps/search/?api=1&query=George+Towing+Services"}
+    ],
+    "Vehicle Repairs": [
+      {"name": "Bosch Car Service George", "url": "https://www.google.com/maps/search/?api=1&query=Bosch+Car+Service+George"},
+      {"name": "Anton's Auto Centre", "url": "https://www.google.com/maps/search/?api=1&query=Anton's+Auto+Centre"},
+      {"name": "Car Service City", "url": "https://www.google.com/maps/search/?api=1&query=Car+Service+City+George"}
+    ],
+    "Vets": [
+      {"name": "George Animal Hospital", "url": "https://www.google.com/maps/search/?api=1&query=George+Animal+Hospital"},
+      {"name": "Garden Route Animal Hospital", "url": "https://www.google.com/maps/search/?api=1&query=Garden+Route+Animal+Hospital"},
+      {"name": "Wilderness Vet (VetCare)", "url": "https://www.google.com/maps/search/?api=1&query=VetCare+George"}
+    ],
+    "Waste": [
+      {"name": "Henque Waste (Serves Wilderness)", "url": "https://www.google.com/maps/search/?api=1&query=Henque+Waste"},
+      {"name": "Ma'bone Waste", "url": "https://www.google.com/maps/search/?api=1&query=Ma'bone+Waste+Management"},
+      {"name": "Garden Route Municipality Waste", "url": "https://www.google.com/maps/search/?api=1&query=Garden+Route+District+Municipality"}
+    ]
+  }
+}

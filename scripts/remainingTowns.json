@@ -1,0 +1,276 @@
+{
+  "sedgefield": {
+    "Accountants": [
+      {"name": "Sedgefield Accounting Services (Smit & Associates)", "url": "https://www.google.com/maps/search/?api=1&query=Smit+and+Associates+Sedgefield"},
+      {"name": "Moore (Serves Sedgefield)", "url": "https://www.google.com/maps/search/?api=1&query=Moore+Knysna"},
+      {"name": "Mazars (Serves Sedgefield)", "url": "https://www.google.com/maps/search/?api=1&query=Mazars+Knysna"}
+    ],
+    "Car Hire": [
+      {"name": "Tortoise Car Hire", "url": "https://www.google.com/maps/search/?api=1&query=Tortoise+Car+Hire+Sedgefield"},
+      {"name": "Garden Route Car Rental", "url": "https://www.google.com/maps/search/?api=1&query=Garden+Route+Car+Rental"},
+      {"name": "Avis (Knysna)", "url": "https://www.google.com/maps/search/?api=1&query=Avis+Car+Rental+Knysna"}
+    ],
+    "Cleaning": [
+      {"name": "Sedgefield Cleaning Services", "url": "https://www.google.com/maps/search/?api=1&query=Sedgefield+Cleaning+Services"},
+      {"name": "Spotless Cleaning (Serves Sedgefield)", "url": "https://www.google.com/maps/search/?api=1&query=Spotless+Cleaning+Services"},
+      {"name": "Complete Cleaning (Serves Sedgefield)", "url": "https://www.google.com/maps/search/?api=1&query=Complete+Cleaning+Services+Knysna"}
+    ],
+    "Coffee": [
+      {"name": "Steam Whistle Stop", "url": "https://www.google.com/maps/search/?api=1&query=Steam+Whistle+Stop+Sedgefield"},
+      {"name": "Slow Roasted Coffee", "url": "https://www.google.com/maps/search/?api=1&query=Slow+Roasted+Coffee+Sedgefield"},
+      {"name": "Sedgefield Craft Brewery & Coffee", "url": "https://www.google.com/maps/search/?api=1&query=Sedgefield+Craft+Brewery"}
+    ],
+    "Eat": [
+      {"name": "Montecello Seafood & Grill", "url": "https://www.google.com/maps/search/?api=1&query=Montecello+Restaurant+Sedgefield"},
+      {"name": "Trattoria da Vinci", "url": "https://www.google.com/maps/search/?api=1&query=Trattoria+Da+Vinci+Sedgefield"},
+      {"name": "Filo's Restaurant", "url": "https://www.google.com/maps/search/?api=1&query=Filos+Restaurant+and+Pub+Sedgefield"}
+    ],
+    "Electricians": [
+      {"name": "Harmse Elektries", "url": "https://www.google.com/maps/search/?api=1&query=Harmse+Elektries+Sedgefield"},
+      {"name": "Berg Electrical", "url": "https://www.google.com/maps/search/?api=1&query=Berg+Electrical+Sedgefield"},
+      {"name": "Oelf Electrical", "url": "https://www.google.com/maps/search/?api=1&query=Oelf+Electrical+Sedgefield"}
+    ],
+    "Garden": [
+      {"name": "Sedgefield Garden Services", "url": "https://www.google.com/maps/search/?api=1&query=Sedgefield+Garden+Services"},
+      {"name": "Garden Guys (Serves Sedgefield)", "url": "https://www.google.com/maps/search/?api=1&query=Garden+Guys+Knysna"},
+      {"name": "Earthbound Landscapes", "url": "https://www.google.com/maps/search/?api=1&query=Earthbound+Landscapes"}
+    ],
+    "Healthcare": [
+      {"name": "Sedgefield Medical Practice", "url": "https://www.google.com/maps/search/?api=1&query=Sedgefield+Medical+Practice"},
+      {"name": "Dr. J.C. Stander", "url": "https://www.google.com/maps/search/?api=1&query=Dr+JC+Stander+Sedgefield"},
+      {"name": "Sedgefield Municipal Clinic", "url": "https://www.google.com/maps/search/?api=1&query=Sedgefield+Clinic"}
+    ],
+    "IT Support": [
+      {"name": "Sedgefield Computer Services", "url": "https://www.google.com/maps/search/?api=1&query=Sedgefield+Computer+Services"},
+      {"name": "Computer Shop Sedgefield", "url": "https://www.google.com/maps/search/?api=1&query=Computer+Shop+Sedgefield"},
+      {"name": "Garden Route Computers", "url": "https://www.google.com/maps/search/?api=1&query=Garden+Route+Computers"}
+    ],
+    "Internet": [
+      {"name": "Herotel Sedgefield", "url": "https://www.google.com/maps/search/?api=1&query=Herotel+Sedgefield"},
+      {"name": "SedgeNet", "url": "https://www.google.com/maps/search/?api=1&query=SedgeNet"},
+      {"name": "Vox Telecom (Coverage)", "url": "https://www.google.com/maps/search/?api=1&query=Vox+Telecom"}
+    ],
+    "Legal": [
+      {"name": "Sedgefield Attorneys", "url": "https://www.google.com/maps/search/?api=1&query=Millers+Attorneys+Knysna"},
+      {"name": "Logan-Martin Inc", "url": "https://www.google.com/maps/search/?api=1&query=Logan+Martin+Inc+Knysna"},
+      {"name": "Mosdell Pama & Cox", "url": "https://www.google.com/maps/search/?api=1&query=Mosdell+Pama+and+Cox+Knysna"}
+    ],
+    "Locksmiths": [
+      {"name": "CX Locksmiths (Serves Sedgefield)", "url": "https://www.google.com/maps/search/?api=1&query=CX+Locksmiths+Knysna"},
+      {"name": "Garden Route Locksmiths", "url": "https://www.google.com/maps/search/?api=1&query=Garden+Route+Locksmiths"},
+      {"name": "Sedgefield Hardware & Keys", "url": "https://www.google.com/maps/search/?api=1&query=Sedgefield+Hardware"}
+    ],
+    "Moving": [
+      {"name": "Knysna Removals (Serves Sedgefield)", "url": "https://www.google.com/maps/search/?api=1&query=Knysna+Removals"},
+      {"name": "Biddulphs (Serves Sedgefield)", "url": "https://www.google.com/maps/search/?api=1&query=Biddulphs+International"},
+      {"name": "Sedgefield Self Storage", "url": "https://www.google.com/maps/search/?api=1&query=Sedgefield+Self+Storage"}
+    ],
+    "Painters": [
+      {"name": "Sedgefield Painters", "url": "https://www.google.com/maps/search/?api=1&query=Paint+and+Floor+George"},
+      {"name": "Top Notch Paint", "url": "https://www.google.com/maps/search/?api=1&query=Top+Notch+Paint+Pros"},
+      {"name": "Knysna Painting Contractors", "url": "https://www.google.com/maps/search/?api=1&query=Knysna+Painting+Contractors"}
+    ],
+    "Pest Control": [
+      {"name": "Pest Control Sedgefield", "url": "https://www.google.com/maps/search/?api=1&query=Pest+Control+Sedgefield"},
+      {"name": "Rentokil (Serves Sedgefield)", "url": "https://www.google.com/maps/search/?api=1&query=Rentokil+Initial+Knysna"},
+      {"name": "Mostert Pest Control", "url": "https://www.google.com/maps/search/?api=1&query=Mostert+Pest+Control"}
+    ],
+    "Pharmacy": [
+      {"name": "Sedgefield Pharmacy", "url": "https://www.google.com/maps/search/?api=1&query=Sedgefield+Pharmacy"},
+      {"name": "Dis-Chem (Delivery to Sedgefield)", "url": "https://www.google.com/maps/search/?api=1&query=Dis-Chem+Pharmacy+Knysna"},
+      {"name": "Clicks (Delivery to Sedgefield)", "url": "https://www.google.com/maps/search/?api=1&query=Clicks+Pharmacy+Knysna+Mall"}
+    ],
+    "Plumbers": [
+      {"name": "Greentech Plumbing", "url": "https://www.google.com/maps/search/?api=1&query=Greentech+Plumbing+Sedgefield"},
+      {"name": "Motion Plumbers", "url": "https://www.google.com/maps/search/?api=1&query=Motion+Plumbers+Sedgefield"},
+      {"name": "Geyser Guy Plumbers", "url": "https://www.google.com/maps/search/?api=1&query=Geyser+Guy+Plumbers+Sedgefield"}
+    ],
+    "Pool": [
+      {"name": "Sedgefield Pool Care", "url": "https://www.google.com/maps/search/?api=1&query=Sedgefield+Pool+Care"},
+      {"name": "Pool Care Knysna (Serves Sedgefield)", "url": "https://www.google.com/maps/search/?api=1&query=Pool+Care+Knysna"},
+      {"name": "Clear Blue Pools", "url": "https://www.google.com/maps/search/?api=1&query=Clear+Blue+Pools"}
+    ],
+    "Real Estate": [
+      {"name": "Pam Golding Properties Sedgefield", "url": "https://www.google.com/maps/search/?api=1&query=Pam+Golding+Properties+Sedgefield"},
+      {"name": "Seeff Sedgefield", "url": "https://www.google.com/maps/search/?api=1&query=Seeff+Sedgefield"},
+      {"name": "RE/MAX Coastal", "url": "https://www.google.com/maps/search/?api=1&query=RE/MAX+Coastal+Sedgefield"}
+    ],
+    "Roofing": [
+      {"name": "Knysna Roofing (Serves Sedgefield)", "url": "https://www.google.com/maps/search/?api=1&query=Knysna+Roofing"},
+      {"name": "Greentech Waterproofing", "url": "https://www.google.com/maps/search/?api=1&query=Greentech+Plumbing+Sedgefield"},
+      {"name": "Garden Route Roofing", "url": "https://www.google.com/maps/search/?api=1&query=Garden+Route+Roofing"}
+    ],
+    "Security": [
+      {"name": "Fidelity ADT Sedgefield", "url": "https://www.google.com/maps/search/?api=1&query=Fidelity+ADT+Sedgefield"},
+      {"name": "Optima Security", "url": "https://www.google.com/maps/search/?api=1&query=Optima+Security+Sedgefield"},
+      {"name": "Plett Security (Serves Sedgefield)", "url": "https://www.google.com/maps/search/?api=1&query=Plett+Security"}
+    ],
+    "Solar": [
+      {"name": "True Solar Garden Route", "url": "https://www.google.com/maps/search/?api=1&query=True+Solar+Garden+Route+Sedgefield"},
+      {"name": "Arena Group", "url": "https://www.google.com/maps/search/?api=1&query=Arena+Group+Sedgefield"},
+      {"name": "UvOn Energy", "url": "https://www.google.com/maps/search/?api=1&query=UvOn+Energy"}
+    ],
+    "Stay": [
+      {"name": "Sedgefield Arms", "url": "https://www.google.com/maps/search/?api=1&query=Sedgefield+Arms"},
+      {"name": "Pine Lake Marina", "url": "https://www.google.com/maps/search/?api=1&query=Pine+Lake+Marina+Sedgefield"},
+      {"name": "Baywater Village", "url": "https://www.google.com/maps/search/?api=1&query=Baywater+Village+Sedgefield"}
+    ],
+    "Towing": [
+      {"name": "Sedgefield Towing (Garden Route Towing)", "url": "https://www.google.com/maps/search/?api=1&query=Garden+Route+Towing"},
+      {"name": "First Help (Serves Sedgefield)", "url": "https://www.google.com/maps/search/?api=1&query=First+Help+Towing"},
+      {"name": "Knysna Towing (Serves Sedgefield)", "url": "https://www.google.com/maps/search/?api=1&query=Knysna+Towing"}
+    ],
+    "Vehicle Repairs": [
+      {"name": "Sedgefield Auto", "url": "https://www.google.com/maps/search/?api=1&query=Sedgefield+Auto+Services"},
+      {"name": "Bosch Car Service (Knysna)", "url": "https://www.google.com/maps/search/?api=1&query=Bosch+Car+Service+Knysna"},
+      {"name": "CAW Automotive", "url": "https://www.google.com/maps/search/?api=1&query=CAW+Automotive+Sedgefield"}
+    ],
+    "Vets": [
+      {"name": "Sedgefield Animal Clinic", "url": "https://www.google.com/maps/search/?api=1&query=Sedgefield+Animal+Clinic"},
+      {"name": "Knysna Veterinary Clinic", "url": "https://www.google.com/maps/search/?api=1&query=Knysna+Veterinary+Clinic"},
+      {"name": "Garden Route Animal Hospital", "url": "https://www.google.com/maps/search/?api=1&query=Garden+Route+Animal+Hospital"}
+    ],
+    "Waste": [
+      {"name": "Dial A Drum Sedgefield", "url": "https://www.google.com/maps/search/?api=1&query=Dial+A+Drum+Sedgefield"},
+      {"name": "Striadalong Recycling", "url": "https://www.google.com/maps/search/?api=1&query=Striadalong+Recycling+Sedgefield"},
+      {"name": "Sedgefield Municipal Drop-off", "url": "https://www.google.com/maps/search/?api=1&query=Sedgefield+Municipal+Waste+Site"}
+    ]
+  },
+  "knysna": {
+    "Accountants": [
+      {"name": "Moore Knysna", "url": "https://www.google.com/maps/search/?api=1&query=Moore+Knysna"},
+      {"name": "Mazars Knysna", "url": "https://www.google.com/maps/search/?api=1&query=Mazars+Knysna"},
+      {"name": "Logie & Associates", "url": "https://www.google.com/maps/search/?api=1&query=Logie+and+Associates+Knysna"}
+    ],
+    "Car Hire": [
+      {"name": "Avis Car Rental Knysna", "url": "https://www.google.com/maps/search/?api=1&query=Avis+Car+Rental+Knysna"},
+      {"name": "Hertz Car Rental Knysna", "url": "https://www.google.com/maps/search/?api=1&query=Hertz+Car+Rental+Knysna"},
+      {"name": "Europcar Knysna", "url": "https://www.google.com/maps/search/?api=1&query=Europcar+Knysna"}
+    ],
+    "Cleaning": [
+      {"name": "Complete Cleaning Services", "url": "https://www.google.com/maps/search/?api=1&query=Complete+Cleaning+Services+Knysna"},
+      {"name": "Click Cleaning", "url": "https://www.google.com/maps/search/?api=1&query=Click+Cleaning+Knysna"},
+      {"name": "Garden Route Laundry & Cleaning", "url": "https://www.google.com/maps/search/?api=1&query=Garden+Route+Laundry+and+Cleaning+Knysna"}
+    ],
+    "Coffee": [
+      {"name": "Ile de Pain", "url": "https://www.google.com/maps/search/?api=1&query=ile+de+pain+Knysna"},
+      {"name": "African Bean", "url": "https://www.google.com/maps/search/?api=1&query=African+Bean+Knysna"},
+      {"name": "Trinity Coffee", "url": "https://www.google.com/maps/search/?api=1&query=Trinity+Coffee+Knysna"}
+    ],
+    "Eat": [
+      {"name": "34° South Restaurant", "url": "https://www.google.com/maps/search/?api=1&query=34+South+Knysna"},
+      {"name": "East Head Cafe", "url": "https://www.google.com/maps/search/?api=1&query=East+Head+Cafe+Knysna"},
+      {"name": "Sirocco", "url": "https://www.google.com/maps/search/?api=1&query=Sirocco+Restaurant+Knysna"}
+    ],
+    "Electricians": [
+      {"name": "Knysna Electrical", "url": "https://www.google.com/maps/search/?api=1&query=Knysna+Electrical"},
+      {"name": "GA Electrical", "url": "https://www.google.com/maps/search/?api=1&query=GA+Electrical+Knysna"},
+      {"name": "GH Electrical", "url": "https://www.google.com/maps/search/?api=1&query=GH+Electrical+Knysna"}
+    ],
+    "Garden": [
+      {"name": "Garden Guys", "url": "https://www.google.com/maps/search/?api=1&query=Garden+Guys+Knysna"},
+      {"name": "Earthbound Landscapes", "url": "https://www.google.com/maps/search/?api=1&query=Earthbound+Landscapes+Knysna"},
+      {"name": "Ivy Gardens", "url": "https://www.google.com/maps/search/?api=1&query=Ivy+Gardens+Knysna"}
+    ],
+    "Healthcare": [
+      {"name": "Life Knysna Private Hospital", "url": "https://www.google.com/maps/search/?api=1&query=Life+Knysna+Private+Hospital"},
+      {"name": "Knysna Medical Practice", "url": "https://www.google.com/maps/search/?api=1&query=Knysna+Medical+Practice"},
+      {"name": "Knysna Provincial Hospital", "url": "https://www.google.com/maps/search/?api=1&query=Knysna+Provincial+Hospital"}
+    ],
+    "IT Support": [
+      {"name": "First Technology Knysna", "url": "https://www.google.com/maps/search/?api=1&query=First+Technology+Knysna"},
+      {"name": "ITec Knysna", "url": "https://www.google.com/maps/search/?api=1&query=ITec+Knysna"},
+      {"name": "Computer Shop Knysna", "url": "https://www.google.com/maps/search/?api=1&query=Computer+Shop+Knysna"}
+    ],
+    "Internet": [
+      {"name": "Herotel Knysna", "url": "https://www.google.com/maps/search/?api=1&query=Herotel+Knysna"},
+      {"name": "RSAWEB (Service)", "url": "https://www.google.com/maps/search/?api=1&query=RSAWEB+Knysna"},
+      {"name": "Vox Telecom (Service)", "url": "https://www.google.com/maps/search/?api=1&query=Vox+Telecom+Knysna"}
+    ],
+    "Legal": [
+      {"name": "Millers Attorneys Knysna", "url": "https://www.google.com/maps/search/?api=1&query=Millers+Attorneys+Knysna"},
+      {"name": "Mosdell Pama & Cox", "url": "https://www.google.com/maps/search/?api=1&query=Mosdell+Pama+and+Cox+Knysna"},
+      {"name": "Logan-Martin Inc", "url": "https://www.google.com/maps/search/?api=1&query=Logan+Martin+Inc+Knysna"}
+    ],
+    "Locksmiths": [
+      {"name": "CX Locksmiths", "url": "https://www.google.com/maps/search/?api=1&query=CX+Locksmiths+Knysna"},
+      {"name": "Knysna Locksmiths", "url": "https://www.google.com/maps/search/?api=1&query=Knysna+Locksmiths"},
+      {"name": "Top Locksmith", "url": "https://www.google.com/maps/search/?api=1&query=Top+Locksmith+Knysna"}
+    ],
+    "Moving": [
+      {"name": "Knysna Removals", "url": "https://www.google.com/maps/search/?api=1&query=Knysna+Removals"},
+      {"name": "Biddulphs International Knysna", "url": "https://www.google.com/maps/search/?api=1&query=Biddulphs+International+Knysna"},
+      {"name": "Knysna Self Storage", "url": "https://www.google.com/maps/search/?api=1&query=Knysna+Self+Storage"}
+    ],
+    "Painters": [
+      {"name": "Knysna Painting Contractors", "url": "https://www.google.com/maps/search/?api=1&query=Knysna+Painting+Contractors"},
+      {"name": "Pro-Paint Knysna", "url": "https://www.google.com/maps/search/?api=1&query=Pro-Paint+Knysna"},
+      {"name": "Top Notch Paint Pros", "url": "https://www.google.com/maps/search/?api=1&query=Top+Notch+Paint+Pros"}
+    ],
+    "Pest Control": [
+      {"name": "Rentokil Initial Knysna", "url": "https://www.google.com/maps/search/?api=1&query=Rentokil+Initial+Knysna"},
+      {"name": "Mostert Pest Control Knysna", "url": "https://www.google.com/maps/search/?api=1&query=Mostert+Pest+Control+Knysna"},
+      {"name": "Pest Control Specialists", "url": "https://www.google.com/maps/search/?api=1&query=Pest+Control+Specialists+Knysna"}
+    ],
+    "Pharmacy": [
+      {"name": "Clicks Knysna Mall", "url": "https://www.google.com/maps/search/?api=1&query=Clicks+Pharmacy+Knysna+Mall"},
+      {"name": "Dis-Chem Knysna", "url": "https://www.google.com/maps/search/?api=1&query=Dis-Chem+Pharmacy+Knysna"},
+      {"name": "Knysna Pharmacy", "url": "https://www.google.com/maps/search/?api=1&query=Knysna+Pharmacy"}
+    ],
+    "Plumbers": [
+      {"name": "Knysna Plumbers", "url": "https://www.google.com/maps/search/?api=1&query=Knysna+Plumbers"},
+      {"name": "The Drain Surgeon", "url": "https://www.google.com/maps/search/?api=1&query=The+Drain+Surgeon+Knysna"},
+      {"name": "Mario's Plumbing", "url": "https://www.google.com/maps/search/?api=1&query=Marios+Plumbing+Knysna"}
+    ],
+    "Pool": [
+      {"name": "Pool Care Knysna", "url": "https://www.google.com/maps/search/?api=1&query=Pool+Care+Knysna"},
+      {"name": "Clear Blue Pools", "url": "https://www.google.com/maps/search/?api=1&query=Clear+Blue+Pools+Knysna"},
+      {"name": "The Pool Man", "url": "https://www.google.com/maps/search/?api=1&query=The+Pool+Man+Knysna"}
+    ],
+    "Real Estate": [
+      {"name": "Pam Golding Properties Knysna", "url": "https://www.google.com/maps/search/?api=1&query=Pam+Golding+Properties+Knysna"},
+      {"name": "Seeff Knysna", "url": "https://www.google.com/maps/search/?api=1&query=Seeff+Knysna"},
+      {"name": "Chas Everitt Knysna", "url": "https://www.google.com/maps/search/?api=1&query=Chas+Everitt+Knysna"}
+    ],
+    "Roofing": [
+      {"name": "Knysna Roofing", "url": "https://www.google.com/maps/search/?api=1&query=Knysna+Roofing"},
+      {"name": "Garden Route Roofing", "url": "https://www.google.com/maps/search/?api=1&query=Garden+Route+Roofing+Knysna"},
+      {"name": "Waterproofing Knysna", "url": "https://www.google.com/maps/search/?api=1&query=Waterproofing+Knysna"}
+    ],
+    "Security": [
+      {"name": "Allsound Security", "url": "https://www.google.com/maps/search/?api=1&query=Allsound+Security+Knysna"},
+      {"name": "Fidelity ADT Knysna", "url": "https://www.google.com/maps/search/?api=1&query=Fidelity+ADT+Knysna"},
+      {"name": "Prime Security Knysna", "url": "https://www.google.com/maps/search/?api=1&query=Prime+Security+Knysna"}
+    ],
+    "Solar": [
+      {"name": "Green Rhino Solar", "url": "https://www.google.com/maps/search/?api=1&query=Green+Rhino+Solar+Knysna"},
+      {"name": "UvOn Energy", "url": "https://www.google.com/maps/search/?api=1&query=UvOn+Energy+Knysna"},
+      {"name": "GreenFlash Solar", "url": "https://www.google.com/maps/search/?api=1&query=GreenFlash+Solar+Knysna"}
+    ],
+    "Stay": [
+      {"name": "The Rex Hotel", "url": "https://www.google.com/maps/search/?api=1&query=The+Rex+Hotel+Knysna"},
+      {"name": "Knysna Hollow Country Estate", "url": "https://www.google.com/maps/search/?api=1&query=Knysna+Hollow+Country+Estate"},
+      {"name": "Belvidere Manor", "url": "https://www.google.com/maps/search/?api=1&query=Belvidere+Manor"}
+    ],
+    "Towing": [
+      {"name": "Knysna Towing", "url": "https://www.google.com/maps/search/?api=1&query=Knysna+Towing"},
+      {"name": "Garden Route Towing", "url": "https://www.google.com/maps/search/?api=1&query=Garden+Route+Towing+Knysna"},
+      {"name": "First Help", "url": "https://www.google.com/maps/search/?api=1&query=First+Help+Towing+Knysna"}
+    ],
+    "Vehicle Repairs": [
+      {"name": "Bosch Car Service Knysna", "url": "https://www.google.com/maps/search/?api=1&query=Bosch+Car+Service+Knysna"},
+      {"name": "Knysna Motor Strippers", "url": "https://www.google.com/maps/search/?api=1&query=Knysna+Motor+Strippers"},
+      {"name": "PJ's Auto", "url": "https://www.google.com/maps/search/?api=1&query=PJs+Auto+Knysna"}
+    ],
+    "Vets": [
+      {"name": "Knysna Veterinary Clinic", "url": "https://www.google.com/maps/search/?api=1&query=Knysna+Veterinary+Clinic"},
+      {"name": "Knysna Animal Welfare", "url": "https://www.google.com/maps/search/?api=1&query=Knysna+Animal+Welfare+Society"},
+      {"name": "George Animal Hospital (Referral)", "url": "https://www.google.com/maps/search/?api=1&query=George+Animal+Hospital"}
+    ],
+    "Waste": [
+      {"name": "Dial A Drum Knysna", "url": "https://www.google.com/maps/search/?api=1&query=Dial+A+Drum+Knysna"},
+      {"name": "Knysna Municipal Waste", "url": "https://www.google.com/maps/search/?api=1&query=Knysna+Municipality+Waste"},
+      {"name": "Remade Recycling", "url": "https://www.google.com/maps/search/?api=1&query=Remade+Recycling+Knysna"}
+    ]
+  }
+}

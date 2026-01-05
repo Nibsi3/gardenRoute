@@ -1,0 +1,139 @@
+{
+  "mossel": {
+    "Accountants": [
+      {"name": "Moore Mossel Bay", "url": "https://www.google.com/maps/search/?api=1&query=Moore+Mossel+Bay"},
+      {"name": "LPH Chartered Accountants", "url": "https://www.google.com/maps/search/?api=1&query=LPH+Chartered+Accountants+Mossel+Bay"},
+      {"name": "Du Toit & Associates", "url": "https://www.google.com/maps/search/?api=1&query=Du+Toit+and+Associates+Mossel+Bay"}
+    ],
+    "Car Hire": [
+      {"name": "Avis Car Rental Mossel Bay", "url": "https://www.google.com/maps/search/?api=1&query=Avis+Car+Rental+Mossel+Bay"},
+      {"name": "Bidvest Car Rental", "url": "https://www.google.com/maps/search/?api=1&query=Bidvest+Car+Rental+Mossel+Bay"},
+      {"name": "Europcar", "url": "https://www.google.com/maps/search/?api=1&query=Europcar+Mossel+Bay"}
+    ],
+    "Cleaning": [
+      {"name": "Mosselbay Cleaning Services", "url": "https://www.google.com/maps/search/?api=1&query=Mosselbay+Cleaning+Services"},
+      {"name": "Coastal Cleaning", "url": "https://www.google.com/maps/search/?api=1&query=Coastal+Cleaning+Mossel+Bay"},
+      {"name": "Wash It Laundromat", "url": "https://www.google.com/maps/search/?api=1&query=Wash+It+Mossel+Bay"}
+    ],
+    "Coffee": [
+      {"name": "Blue Shed Coffee Roastery", "url": "https://www.google.com/maps/search/?api=1&query=Blue+Shed+Coffee+Roastery"},
+      {"name": "The Merchant Coffee", "url": "https://www.google.com/maps/search/?api=1&query=The+Merchant+Coffee+Mossel+Bay"},
+      {"name": "Fearless Coffee", "url": "https://www.google.com/maps/search/?api=1&query=Fearless+Coffee+Mossel+Bay"}
+    ],
+    "Eat": [
+      {"name": "Cafe Gannet", "url": "https://www.google.com/maps/search/?api=1&query=Cafe+Gannet+Mossel+Bay"},
+      {"name": "Kaai 4 Braai Restaurant", "url": "https://www.google.com/maps/search/?api=1&query=Kaai+4+Braai+Restaurant"},
+      {"name": "The Post Tree Restaurant", "url": "https://www.google.com/maps/search/?api=1&query=The+Post+Tree+Restaurant+Mossel+Bay"}
+    ],
+    "Electricians": [
+      {"name": "Mossel Bay Electrical", "url": "https://www.google.com/maps/search/?api=1&query=Mossel+Bay+Electrical"},
+      {"name": "Electrobus", "url": "https://www.google.com/maps/search/?api=1&query=Electrobus+Mossel+Bay"},
+      {"name": "Venter Electrical", "url": "https://www.google.com/maps/search/?api=1&query=Venter+Electrical+Mossel+Bay"}
+    ],
+    "Garden": [
+      {"name": "CBS Garden Solutions", "url": "https://www.google.com/maps/search/?api=1&query=CBS+Garden+Solutions+Mossel+Bay"},
+      {"name": "Platinum Garden Services", "url": "https://www.google.com/maps/search/?api=1&query=Platinum+Garden+Services+Mossel+Bay"},
+      {"name": "Budget Lawns", "url": "https://www.google.com/maps/search/?api=1&query=Budget+Lawns+Mossel+Bay"}
+    ],
+    "Healthcare": [
+      {"name": "Mediclinic Mossel Bay", "url": "https://www.google.com/maps/search/?api=1&query=Mediclinic+Mossel+Bay"},
+      {"name": "Mossel Bay Provincial Hospital", "url": "https://www.google.com/maps/search/?api=1&query=Mossel+Bay+Provincial+Hospital"},
+      {"name": "Vidamed Day Hospital", "url": "https://www.google.com/maps/search/?api=1&query=Vidamed+Day+Hospital+Mossel+Bay"}
+    ],
+    "IT Support": [
+      {"name": "First Technology Mossel Bay", "url": "https://www.google.com/maps/search/?api=1&query=First+Technology+Mossel+Bay"},
+      {"name": "ITec Mossel Bay", "url": "https://www.google.com/maps/search/?api=1&query=ITec+Mossel+Bay"},
+      {"name": "Computer Shop Mossel Bay", "url": "https://www.google.com/maps/search/?api=1&query=Computer+Shop+Mossel+Bay"}
+    ],
+    "Internet": [
+      {"name": "Herotel Mossel Bay", "url": "https://www.google.com/maps/search/?api=1&query=Herotel+Mossel+Bay"},
+      {"name": "Vodacom Shop Mossel Bay", "url": "https://www.google.com/maps/search/?api=1&query=Vodacom+Shop+Mossel+Bay"},
+      {"name": "Telkom Store Mossel Bay", "url": "https://www.google.com/maps/search/?api=1&query=Telkom+Store+Mossel+Bay"}
+    ],
+    "Legal": [
+      {"name": "Rauch Gertenbach Attorneys", "url": "https://www.google.com/maps/search/?api=1&query=Rauch+Gertenbach+Attorneys+Mossel+Bay"},
+      {"name": "Oosthuizen Marais & Pretorius", "url": "https://www.google.com/maps/search/?api=1&query=Oosthuizen+Marais+and+Pretorius"},
+      {"name": "Louw & Coetzee", "url": "https://www.google.com/maps/search/?api=1&query=Louw+and+Coetzee+Mossel+Bay"}
+    ],
+    "Locksmiths": [
+      {"name": "CX Locksmiths", "url": "https://www.google.com/maps/search/?api=1&query=CX+Locksmiths+Mossel+Bay"},
+      {"name": "Mossel Bay Locksmiths", "url": "https://www.google.com/maps/search/?api=1&query=Mossel+Bay+Locksmiths"},
+      {"name": "Key & Lock Services", "url": "https://www.google.com/maps/search/?api=1&query=Key+and+Lock+Services+Mossel+Bay"}
+    ],
+    "Moving": [
+      {"name": "Biddulphs International Mossel Bay", "url": "https://www.google.com/maps/search/?api=1&query=Biddulphs+International+Mossel+Bay"},
+      {"name": "Mossel Bay Self Storage", "url": "https://www.google.com/maps/search/?api=1&query=Mossel+Bay+Self+Storage"},
+      {"name": "Master Movers", "url": "https://www.google.com/maps/search/?api=1&query=Master+Movers+Mossel+Bay"}
+    ],
+    "Painters": [
+      {"name": "Mossel Bay Painters", "url": "https://www.google.com/maps/search/?api=1&query=Mossel+Bay+Painters"},
+      {"name": "Coastal Paint & Decor", "url": "https://www.google.com/maps/search/?api=1&query=Coastal+Paint+and+Decor+Mossel+Bay"},
+      {"name": "Top Coat Painters", "url": "https://www.google.com/maps/search/?api=1&query=Top+Coat+Painters+Mossel+Bay"}
+    ],
+    "Pest Control": [
+      {"name": "Rentokil Initial Mossel Bay", "url": "https://www.google.com/maps/search/?api=1&query=Rentokil+Initial+Mossel+Bay"},
+      {"name": "Mostert Pest Control Mossel Bay", "url": "https://www.google.com/maps/search/?api=1&query=Mostert+Pest+Control+Mossel+Bay"},
+      {"name": "Pest Police", "url": "https://www.google.com/maps/search/?api=1&query=Pest+Police+Mossel+Bay"}
+    ],
+    "Pharmacy": [
+      {"name": "Clicks Pharmacy Mossel Bay", "url": "https://www.google.com/maps/search/?api=1&query=Clicks+Pharmacy+Mossel+Bay"},
+      {"name": "Dis-Chem Pharmacy Mossel Bay", "url": "https://www.google.com/maps/search/?api=1&query=Dis-Chem+Pharmacy+Mossel+Bay"},
+      {"name": "Mosselbay Pharmacy", "url": "https://www.google.com/maps/search/?api=1&query=Mosselbay+Pharmacy"}
+    ],
+    "Plumbers": [
+      {"name": "Mossel Bay Plumbers", "url": "https://www.google.com/maps/search/?api=1&query=Mossel+Bay+Plumbers"},
+      {"name": "The Drain Surgeon", "url": "https://www.google.com/maps/search/?api=1&query=The+Drain+Surgeon+Mossel+Bay"},
+      {"name": "Coastal Plumbing", "url": "https://www.google.com/maps/search/?api=1&query=Coastal+Plumbing+Mossel+Bay"}
+    ],
+    "Pool": [
+      {"name": "Pool Care Mossel Bay", "url": "https://www.google.com/maps/search/?api=1&query=Pool+Care+Mossel+Bay"},
+      {"name": "The Pool Team", "url": "https://www.google.com/maps/search/?api=1&query=The+Pool+Team+Mossel+Bay"},
+      {"name": "Blue Water Pools", "url": "https://www.google.com/maps/search/?api=1&query=Blue+Water+Pools+Mossel+Bay"}
+    ],
+    "Real Estate": [
+      {"name": "Pam Golding Properties Mossel Bay", "url": "https://www.google.com/maps/search/?api=1&query=Pam+Golding+Properties+Mossel+Bay"},
+      {"name": "Seeff Mossel Bay", "url": "https://www.google.com/maps/search/?api=1&query=Seeff+Mossel+Bay"},
+      {"name": "Chas Everitt Mossel Bay", "url": "https://www.google.com/maps/search/?api=1&query=Chas+Everitt+Mossel+Bay"}
+    ],
+    "Roofing": [
+      {"name": "Mossel Bay Roofing", "url": "https://www.google.com/maps/search/?api=1&query=Mossel+Bay+Roofing"},
+      {"name": "Coastal Roofing", "url": "https://www.google.com/maps/search/?api=1&query=Coastal+Roofing+Mossel+Bay"},
+      {"name": "Roof Repairs Mossel Bay", "url": "https://www.google.com/maps/search/?api=1&query=Roof+Repairs+Mossel+Bay"}
+    ],
+    "Security": [
+      {"name": "Fidelity ADT Mossel Bay", "url": "https://www.google.com/maps/search/?api=1&query=Fidelity+ADT+Mossel+Bay"},
+      {"name": "CS Security", "url": "https://www.google.com/maps/search/?api=1&query=CS+Security+Mossel+Bay"},
+      {"name": "Suiderkruis Security", "url": "https://www.google.com/maps/search/?api=1&query=Suiderkruis+Security+Mossel+Bay"}
+    ],
+    "Solar": [
+      {"name": "Horizon Solar", "url": "https://www.google.com/maps/search/?api=1&query=Horizon+Solar+Mossel+Bay"},
+      {"name": "79 Degrees Solar", "url": "https://www.google.com/maps/search/?api=1&query=79+Degrees+Solar+Mossel+Bay"},
+      {"name": "All Solar Garden Route", "url": "https://www.google.com/maps/search/?api=1&query=All+Solar+Garden+Route+Mossel+Bay"}
+    ],
+    "Stay": [
+      {"name": "Protea Hotel by Marriott Mossel Bay", "url": "https://www.google.com/maps/search/?api=1&query=Protea+Hotel+by+Marriott+Mossel+Bay"},
+      {"name": "Point Hotel & Spa", "url": "https://www.google.com/maps/search/?api=1&query=Point+Hotel+and+Spa+Mossel+Bay"},
+      {"name": "Santos Express Train Lodge", "url": "https://www.google.com/maps/search/?api=1&query=Santos+Express+Train+Lodge"}
+    ],
+    "Towing": [
+      {"name": "Mossel Bay Towing", "url": "https://www.google.com/maps/search/?api=1&query=Mossel+Bay+Towing"},
+      {"name": "Garden Route Towing (Serves Mossel Bay)", "url": "https://www.google.com/maps/search/?api=1&query=Garden+Route+Towing+Mossel+Bay"},
+      {"name": "First Help", "url": "https://www.google.com/maps/search/?api=1&query=First+Help+Towing+Mossel+Bay"}
+    ],
+    "Vehicle Repairs": [
+      {"name": "Bosch Car Service Mossel Bay", "url": "https://www.google.com/maps/search/?api=1&query=Bosch+Car+Service+Mossel+Bay"},
+      {"name": "Mossel Bay Auto", "url": "https://www.google.com/maps/search/?api=1&query=Mossel+Bay+Auto"},
+      {"name": "Car Service City Mossel Bay", "url": "https://www.google.com/maps/search/?api=1&query=Car+Service+City+Mossel+Bay"}
+    ],
+    "Vets": [
+      {"name": "Mossel Bay Animal Hospital", "url": "https://www.google.com/maps/search/?api=1&query=Mossel+Bay+Animal+Hospital"},
+      {"name": "Dana Bay Vet", "url": "https://www.google.com/maps/search/?api=1&query=Dana+Bay+Vet"},
+      {"name": "Mossel Bay Animal Welfare", "url": "https://www.google.com/maps/search/?api=1&query=Mossel+Bay+Animal+Welfare+Society"}
+    ],
+    "Waste": [
+      {"name": "Moss Rommel", "url": "https://www.google.com/maps/search/?api=1&query=Moss+Rommel+Mossel+Bay"},
+      {"name": "Oss Oil (Recycling)", "url": "https://www.google.com/maps/search/?api=1&query=Oss+Oil+Mossel+Bay"},
+      {"name": "Mossel Bay Waste Management", "url": "https://www.google.com/maps/search/?api=1&query=Mossel+Bay+Municipality+Waste+Management"}
+    ]
+  }
+}

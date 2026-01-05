@@ -1,0 +1,139 @@
+{
+  "oudtshoorn": {
+    "Accountants": [
+      {"name": "Smit & Associates Oudtshoorn", "url": "https://www.google.com/maps/search/?api=1&query=Smit+and+Associates+Oudtshoorn"},
+      {"name": "LPH", "url": "https://www.google.com/maps/search/?api=1&query=LPH+Oudtshoorn"},
+      {"name": "Boshoff Visser", "url": "https://www.google.com/maps/search/?api=1&query=Boshoff+Visser+Oudtshoorn"}
+    ],
+    "Car Hire": [
+      {"name": "Avis Car Rental Oudtshoorn", "url": "https://www.google.com/maps/search/?api=1&query=Avis+Car+Rental+Oudtshoorn"},
+      {"name": "Budget Car Rental", "url": "https://www.google.com/maps/search/?api=1&query=Budget+Car+Rental+Oudtshoorn"},
+      {"name": "Klein Karoo Car Hire", "url": "https://www.google.com/maps/search/?api=1&query=Klein+Karoo+Car+Hire"}
+    ],
+    "Cleaning": [
+      {"name": "Ultimate Cleaning Solutions", "url": "https://www.google.com/maps/search/?api=1&query=Ultimate+Cleaning+Solutions+Oudtshoorn"},
+      {"name": "SweepSouth Oudtshoorn", "url": "https://www.google.com/maps/search/?api=1&query=SweepSouth+Oudtshoorn"},
+      {"name": "District Cleaners", "url": "https://www.google.com/maps/search/?api=1&query=District+Cleaners+Oudtshoorn"}
+    ],
+    "Coffee": [
+      {"name": "Beans About Coffee", "url": "https://www.google.com/maps/search/?api=1&query=Beans+About+Coffee+Oudtshoorn"},
+      {"name": "Cafe Brulé", "url": "https://www.google.com/maps/search/?api=1&query=Cafe+Brule+Oudtshoorn"},
+      {"name": "Smitswinkel", "url": "https://www.google.com/maps/search/?api=1&query=Smitswinkel+Oudtshoorn"}
+    ],
+    "Eat": [
+      {"name": "Buffelsdrift Restaurant", "url": "https://www.google.com/maps/search/?api=1&query=Buffelsdrift+Game+Lodge+Restaurant"},
+      {"name": "Nostalgie Restaurant", "url": "https://www.google.com/maps/search/?api=1&query=Nostalgie+Restaurant+Oudtshoorn"},
+      {"name": "The Black Swan", "url": "https://www.google.com/maps/search/?api=1&query=The+Black+Swan+Restaurant+Oudtshoorn"}
+    ],
+    "Electricians": [
+      {"name": "Klein Karoo Electrical", "url": "https://www.google.com/maps/search/?api=1&query=Klein+Karoo+Electrical"},
+      {"name": "Barkhuizen Electrical", "url": "https://www.google.com/maps/search/?api=1&query=Barkhuizen+Electrical"},
+      {"name": "Oudtshoorn Electrical", "url": "https://www.google.com/maps/search/?api=1&query=Oudtshoorn+Electrical"}
+    ],
+    "Garden": [
+      {"name": "LeafySpace", "url": "https://www.google.com/maps/search/?api=1&query=LeafySpace+Oudtshoorn"},
+      {"name": "Klein Karoo Landscaping", "url": "https://www.google.com/maps/search/?api=1&query=Klein+Karoo+Landscaping"},
+      {"name": "PSP Timber Industries", "url": "https://www.google.com/maps/search/?api=1&query=PSP+Timber+Industries+Oudtshoorn"}
+    ],
+    "Healthcare": [
+      {"name": "Mediclinic Klein Karoo", "url": "https://www.google.com/maps/search/?api=1&query=Mediclinic+Klein+Karoo"},
+      {"name": "Oudtshoorn Hospital", "url": "https://www.google.com/maps/search/?api=1&query=Oudtshoorn+Hospital"},
+      {"name": "Cango Medical Centre", "url": "https://www.google.com/maps/search/?api=1&query=Cango+Medical+Centre"}
+    ],
+    "IT Support": [
+      {"name": "Klein Karoo IT", "url": "https://www.google.com/maps/search/?api=1&query=Klein+Karoo+IT"},
+      {"name": "Computer Solutions", "url": "https://www.google.com/maps/search/?api=1&query=Computer+Solutions+Oudtshoorn"},
+      {"name": "Karoo Connexion", "url": "https://www.google.com/maps/search/?api=1&query=Karoo+Connexion+Oudtshoorn"}
+    ],
+    "Internet": [
+      {"name": "Herotel Oudtshoorn", "url": "https://www.google.com/maps/search/?api=1&query=Herotel+Oudtshoorn"},
+      {"name": "Telkom Oudtshoorn", "url": "https://www.google.com/maps/search/?api=1&query=Telkom+Store+Oudtshoorn"},
+      {"name": "Vodacom Shop Oudtshoorn", "url": "https://www.google.com/maps/search/?api=1&query=Vodacom+Shop+Oudtshoorn"}
+    ],
+    "Legal": [
+      {"name": "Coetzee & Van Der Bergh", "url": "https://www.google.com/maps/search/?api=1&query=Coetzee+and+Van+Der+Bergh+Oudtshoorn"},
+      {"name": "James King & Badewitz", "url": "https://www.google.com/maps/search/?api=1&query=James+King+and+Badewitz"},
+      {"name": "Pocock & Bailey", "url": "https://www.google.com/maps/search/?api=1&query=Pocock+and+Bailey+Oudtshoorn"}
+    ],
+    "Locksmiths": [
+      {"name": "Oudtshoorn Locksmiths", "url": "https://www.google.com/maps/search/?api=1&query=Oudtshoorn+Locksmiths"},
+      {"name": "Key & Lock", "url": "https://www.google.com/maps/search/?api=1&query=Key+and+Lock+Oudtshoorn"},
+      {"name": "Klein Karoo Keys", "url": "https://www.google.com/maps/search/?api=1&query=Klein+Karoo+Keys"}
+    ],
+    "Moving": [
+      {"name": "Oudtshoorn Furniture Removals", "url": "https://www.google.com/maps/search/?api=1&query=Oudtshoorn+Furniture+Removals"},
+      {"name": "Klein Karoo Removals", "url": "https://www.google.com/maps/search/?api=1&query=Klein+Karoo+Removals"},
+      {"name": "Biddulphs (Serves Oudtshoorn)", "url": "https://www.google.com/maps/search/?api=1&query=Biddulphs+International"}
+    ],
+    "Painters": [
+      {"name": "Oudtshoorn Painters", "url": "https://www.google.com/maps/search/?api=1&query=Oudtshoorn+Painters"},
+      {"name": "Klein Karoo Painters", "url": "https://www.google.com/maps/search/?api=1&query=Klein+Karoo+Painters"},
+      {"name": "Paint Pot Oudtshoorn", "url": "https://www.google.com/maps/search/?api=1&query=Paint+Pot+Oudtshoorn"}
+    ],
+    "Pest Control": [
+      {"name": "Rentokil Initial Oudtshoorn", "url": "https://www.google.com/maps/search/?api=1&query=Rentokil+Initial+Oudtshoorn"},
+      {"name": "Mostert Pest Control Oudtshoorn", "url": "https://www.google.com/maps/search/?api=1&query=Mostert+Pest+Control+Oudtshoorn"},
+      {"name": "Maxima Pest Control", "url": "https://www.google.com/maps/search/?api=1&query=Maxima+Pest+Control+Oudtshoorn"}
+    ],
+    "Pharmacy": [
+      {"name": "Clicks Pharmacy Oudtshoorn", "url": "https://www.google.com/maps/search/?api=1&query=Clicks+Pharmacy+Oudtshoorn"},
+      {"name": "Arrie Nel Pharmacy Oudtshoorn", "url": "https://www.google.com/maps/search/?api=1&query=Arrie+Nel+Pharmacy+Oudtshoorn"},
+      {"name": "Queens Mall Pharmacy", "url": "https://www.google.com/maps/search/?api=1&query=Queens+Mall+Pharmacy"}
+    ],
+    "Plumbers": [
+      {"name": "Barkhuizen Plumbing", "url": "https://www.google.com/maps/search/?api=1&query=Barkhuizen+Electrical+and+Plumbing+Oudtshoorn"},
+      {"name": "Oudtshoorn Plumbing", "url": "https://www.google.com/maps/search/?api=1&query=Oudtshoorn+Plumbing"},
+      {"name": "Klein Karoo Plumbing", "url": "https://www.google.com/maps/search/?api=1&query=Klein+Karoo+Plumbing"}
+    ],
+    "Pool": [
+      {"name": "Oudtshoorn Pool Services", "url": "https://www.google.com/maps/search/?api=1&query=Oudtshoorn+Pool+Services"},
+      {"name": "Karoo Pools", "url": "https://www.google.com/maps/search/?api=1&query=Karoo+Pools+Oudtshoorn"},
+      {"name": "Pool Doctor Oudtshoorn", "url": "https://www.google.com/maps/search/?api=1&query=Pool+Doctor+Oudtshoorn"}
+    ],
+    "Real Estate": [
+      {"name": "Pam Golding Properties Oudtshoorn", "url": "https://www.google.com/maps/search/?api=1&query=Pam+Golding+Properties+Oudtshoorn"},
+      {"name": "Seeff Oudtshoorn", "url": "https://www.google.com/maps/search/?api=1&query=Seeff+Oudtshoorn"},
+      {"name": "RE/MAX Unity", "url": "https://www.google.com/maps/search/?api=1&query=RE/MAX+Unity+Oudtshoorn"}
+    ],
+    "Roofing": [
+      {"name": "Barkhuizen Roofing", "url": "https://www.google.com/maps/search/?api=1&query=Barkhuizen+Roofing+Oudtshoorn"},
+      {"name": "Oudtshoorn Roofing", "url": "https://www.google.com/maps/search/?api=1&query=Oudtshoorn+Roofing"},
+      {"name": "Karoo Roof Repairs", "url": "https://www.google.com/maps/search/?api=1&query=Karoo+Roof+Repairs"}
+    ],
+    "Security": [
+      {"name": "Penta Security Services", "url": "https://www.google.com/maps/search/?api=1&query=Penta+Security+Services+Oudtshoorn"},
+      {"name": "Fidelity ADT (Serves Oudtshoorn)", "url": "https://www.google.com/maps/search/?api=1&query=Fidelity+ADT+Oudtshoorn"},
+      {"name": "K9 Security", "url": "https://www.google.com/maps/search/?api=1&query=K9+Security+Oudtshoorn"}
+    ],
+    "Solar": [
+      {"name": "Klein Karoo Solar", "url": "https://www.google.com/maps/search/?api=1&query=Klein+Karoo+Solar+Oudtshoorn"},
+      {"name": "Solarcon", "url": "https://www.google.com/maps/search/?api=1&query=Solarcon+Oudtshoorn"},
+      {"name": "Specialized Solar Systems", "url": "https://www.google.com/maps/search/?api=1&query=Specialized+Solar+Systems+Oudtshoorn"}
+    ],
+    "Stay": [
+      {"name": "Buffelsdrift Game Lodge", "url": "https://www.google.com/maps/search/?api=1&query=Buffelsdrift+Game+Lodge"},
+      {"name": "The Queens Hotel", "url": "https://www.google.com/maps/search/?api=1&query=The+Queens+Hotel+Oudtshoorn"},
+      {"name": "Protea Hotel Riempie Estate", "url": "https://www.google.com/maps/search/?api=1&query=Protea+Hotel+by+Marriott+Oudtshoorn+Riempie+Estate"}
+    ],
+    "Towing": [
+      {"name": "Oudtshoorn Towing", "url": "https://www.google.com/maps/search/?api=1&query=Oudtshoorn+Towing"},
+      {"name": "Klein Karoo Towing", "url": "https://www.google.com/maps/search/?api=1&query=Klein+Karoo+Towing"},
+      {"name": "First Help (Serves Oudtshoorn)", "url": "https://www.google.com/maps/search/?api=1&query=First+Help+Towing"}
+    ],
+    "Vehicle Repairs": [
+      {"name": "Bosch Car Service Oudtshoorn", "url": "https://www.google.com/maps/search/?api=1&query=Bosch+Car+Service+Oudtshoorn"},
+      {"name": "Oudtshoorn Auto Repairs", "url": "https://www.google.com/maps/search/?api=1&query=Oudtshoorn+Auto+Repairs"},
+      {"name": "Karoo Mechanical", "url": "https://www.google.com/maps/search/?api=1&query=Karoo+Mechanical+Oudtshoorn"}
+    ],
+    "Vets": [
+      {"name": "Oudtshoorn Veterinary Clinic", "url": "https://www.google.com/maps/search/?api=1&query=Oudtshoorn+Veterinary+Clinic"},
+      {"name": "Cango Animal Clinic", "url": "https://www.google.com/maps/search/?api=1&query=Cango+Animal+Clinic+Oudtshoorn"},
+      {"name": "State Vet Oudtshoorn", "url": "https://www.google.com/maps/search/?api=1&query=State+Vet+Oudtshoorn"}
+    ],
+    "Waste": [
+      {"name": "Klein Karoo Scrap Metal", "url": "https://www.google.com/maps/search/?api=1&query=Klein+Karoo+Scrap+Metal+Oudtshoorn"},
+      {"name": "Oudtshoorn Municipality Waste", "url": "https://www.google.com/maps/search/?api=1&query=Oudtshoorn+Municipality+Waste+Management"},
+      {"name": "Retain Reuse Recycle", "url": "https://www.google.com/maps/search/?api=1&query=Retain+Reuse+Recycle+Oudtshoorn"}
+    ]
+  }
+}
