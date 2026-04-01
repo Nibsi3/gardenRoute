@@ -1,34 +1,38 @@
-# gardenRoute
+# garden route spotlight
 
-## Overview
-This repository contains active product code and implementation details for the **gardenRoute** project.
+![garden route spotlight preview](https://opengraph.githubassets.com/1/Nibsi3/garden-route-spotlight)
 
-## Highlights
-- Clean project structure with separated app/data/config concerns.
-- Production-oriented setup with environment-driven configuration.
-- Ready for extension with tests, CI checks, and deployment workflows.
+Location-focused discovery web app for Garden Route businesses, combining curated data, map utilities, and category-based browsing.
 
-## Tech Stack
-- Node.js
-- TypeScript
-- React
-- Next.js
+## What it does
+- Aggregates local business listings into searchable, structured sections.
+- Supports map/address workflows and category-driven exploration.
+- Uses script-assisted data handling for content updates.
 
-## Run Locally
-1. Clone the repository and move into the project folder.
-2. Install dependencies (`npm install`, `pnpm install`, or the package manager used by the project).
-3. Create a local `.env` file if environment variables are required.
-4. Start the development server and verify the main flow works end-to-end.
+## Stack
+- Next.js + React + TypeScript
+- App Router project structure with modular components/hooks
 
-## Repository Layout
-- `.vscode/`
-- `app/`
-- `components/`
-- `data/`
-- `hooks/`
-- `lib/`
+## Local development
+```bash
+npm install
+npm run dev
+```
 
-## Security Notes
-- Keep credentials in environment variables, never in tracked files.
-- Rotate and replace any key immediately if exposure is suspected.
-- Use least-privilege tokens for third-party integrations.
+Build and run:
+```bash
+npm run build
+npm run start
+```
+
+## Repository layout
+- `app/` route definitions and page composition
+- `components/` UI and content building blocks
+- `hooks/` reusable state/data helpers
+- `lib/` configuration and domain logic
+- `data/` project content sources
+
+## Practical next improvements
+- Add end-to-end tests for map and listing filters.
+- Add lightweight admin import flow for business updates.
+- Add category-level analytics for discovery behavior.
